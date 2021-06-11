@@ -1,0 +1,1314 @@
+title,videoIDS,video_description,publishedDate,likes,dislikes,views,comment
+Recap of matrix norms and Levy-Desplanques theorem,WsO_s8dNfVI,"Recap of matrix norms and Levy-Desplanques theorem
+
+Spectral norm and radius, norm of inverse of a matrix, invertability of diagonally dominant matrix",2021-06-03T15:46:59Z,24,0,633,1
+"Convergent matrices, Banach lemma",PVGeabmeLDQ,"Convergent matrices, Banach lemma
+
+Properties of spectral radius, convergent matrices and associated lemmas, Banach lemma",2021-06-03T15:17:41Z,21,0,632,2
+Schur's triangularization theorem,UbDwzSnS0Y0,"Schur's triangularization theorem
+
+(a). Recap of unitary equivalence.
+(b). Schur's Triangularization theorem for complex matrices and proof.
+(c). Schur's Triangularization theorem for real matrices.
+(d). Properties",2021-06-02T10:40:46Z,8,0,397,0
+Unitary equivalence,FHcdxzKcQUQ,"Unitary equivalence
+
+Unitary Equivalence, Euclidean Isometry",2021-06-02T10:32:47Z,4,0,289,0
+Properties of unitary matrices,K8wquZLQyCA,"Properties of unitary matrices
+
+Properties of unitary matrices",2021-06-02T10:15:55Z,3,0,253,0
+Unitary matrices,uMK1KndLy-Q,"Unitary matrices
+Unitary Matrices, Proof for orthogonal vectors being linearly independent",2021-06-02T10:09:21Z,2,1,395,0
+Eigenvector and principle of biorthogonality,LYCqbKah9K0,Eigenvector and principle of biorthogonality,2021-06-01T13:17:41Z,4,0,214,0
+Relationship between eigenvalues of BA and AB,DtDJZEMSojA,Relationship between eigenvalues of BA and AB,2021-06-01T13:02:32Z,1,0,192,0
+Diagonalization,RQCHPP1I7Oo,"Diagonalization
+Similarity transform and diagonalization",2021-06-01T12:48:25Z,6,0,201,0
+Similarity,t6ryEdhnwoU,"Similarity
+
+Distinct eigen values and linear independence of eigen vectors,",2021-06-01T12:27:26Z,1,0,155,0
+"Solving characteristic polynomials, eigenvectors properties",S-yu9Gw7L38,"Solving characteristic polynomials, eigenvectors properties 
+
+Procedure to solve characteristic polynomials, eigenvectors properties",2021-06-01T12:16:53Z,8,0,426,0
+The characteristic polynomial,uaqTfSm2huU,"The characteristic polynomial
+
+Characteristic polynomials",2021-06-01T12:05:33Z,5,0,217,0
+Introduction to eigenvalues and eigenvectors,mqHT80h8GnQ,"Introduction to eigenvalues and eigenvectors
+
+Definition of eigenvalues and eigenvectors, procedure to find eigenvalues and eigenvectors",2021-06-01T11:52:16Z,8,0,365,0
+Errors in solving systems of linear equations,oe-TgY48Goc,"Errors in solving systems of linear equations
+
+Bounding the accuracy and finding relative errors of solutions to system of linear equations, proof for compatability between vector and Matrix norms",2021-06-01T11:32:55Z,4,0,178,0
+Errors in inverses of matrices,uE0eUFgvn5k,"Errors in inverses of matrices
+
+Errors in inverses of Matrices, some properties of condition number",2021-06-01T11:17:55Z,4,0,143,0
+Equivalence of matrix norms and error in inverses of linear systems,hxi95z6i7j4,"Equivalence of matrix norms and error in inverses of linear systems
+
+Unitarily invariant norms, Self-adjoint norms, Erros in calculating inverse of a matrix due to perturbation of entries",2021-06-01T10:54:39Z,2,0,127,0
+Properties of spectral radius,xTPi795hK1w,"Properties of spectral radius
+
+Proof of lemma introduced at the end of Spectral radius",2021-06-01T09:44:28Z,40,1,1037,1
+Spectral radius,Am_nmqS7SPs,Spectral radius,2021-06-01T09:17:51Z,16,0,500,2
+Induced norms and examples,WZifkIcENlo,Induced norms and examples,2021-06-01T09:02:59Z,65,0,1964,2
+"LIVE_NPTEL Awareness workshop in association with IES College Of Technology, Bhopal, Madhya Pradesh",iwnT76rZBBQ,"Please fill this feedback form to obtain an e-participation certificate : https://tinyurl.com/NPTEL-AwarenessWorkshop-May28
+
+
+
+LIVE _ NPTEL Awareness workshop in association with IES College Of Technology, Bhopal, Madhya Pradesh",2021-05-25T13:19:49Z,643,15,14576,7
+"LIVE _ NPTEL Awareness workshop in association with Assam University, Silchar, Assam.",W8TQ40Vcen8,"Please fill this feedback form to obtain an e-participation certificate : https://tinyurl.com/NPTEL-Awareness-Workshop-May25
+NPTEL Awareness workshop in association with Assam University, Silchar, Assam.",2021-05-21T16:11:46Z,354,12,8137,4
+Induced norms,hgpgZb961to,"Induced norms
+
+Induced norm: Definition, examples",2021-05-22T09:49:02Z,18,1,1483,0
+Matrix norms: Properties,Z8csIEkecBo,"Matrix norms: Properties
+
+Properties of matrix norms, examples of matrix norms",2021-05-22T09:22:23Z,13,0,744,0
+Matrix norms,L2uVbIbmIJE,"Matrix norms
+
+Introduction to matrix norms",2021-05-22T09:09:16Z,6,0,524,0
+Properties and examples of dual norms,AsG6Jr09LgU,"Properties and examples of dual norms
+
+ Properties of dual norms",2021-05-22T08:53:43Z,5,0,388,0
+Dual norms,XO-AvBcgzZE,"Dual norms
+Definition of dual norms",2021-05-22T08:45:35Z,6,0,446,0
+Summary of equivalence of norms,TWHfGPyHyAI,"Summary of equivalence of norms
+
+Review of equivalence of norms",2021-05-22T08:44:16Z,5,0,464,0
+Applications and equivalence of vector norms,UkYKyelb5Wc,"Applications and equivalence of vector norms
+
+Uses of norms, Algebraic properties of norms, Equivalence of norms",2021-05-22T07:31:15Z,4,0,236,0
+Vector norms and their properties,3XOM2g53bNI,"Vector norms and their properties
+
+Properties of vector norms, Inner products, Norms induced by inner products",2021-05-22T07:16:29Z,2,0,256,0
+Introduction to norms and inner products,iA7MnBhkXvQ,Introduction to norms and inner products,2021-05-22T07:07:43Z,2,0,214,0
+Properties of determinants,YY0lV8_HnTY,"Properties of determinants
+
+Properties and uses of Determinants, Norms and Inner product definitions,",2021-05-22T06:53:04Z,3,0,205,0
+Determinant,fnGngke4g_s,"Determinant
+
+Definition of Determinant, Properties of Determinant",2021-05-22T06:28:53Z,4,0,369,1
+Orthonormal matrices definition,J-BCvUALQyQ,"Orthonormal matrices definition
+
+Definition of orthonormal matrix, Equivalent definitions of orthonormal matrices",2021-05-22T06:10:49Z,6,0,394,0
+"Gram-schmidt algorithm,",K_AOn_zwM-o,"Gram-schmidt algorithm,
+
+Definition of orthonormal basis, Gram-Schmidt algorithm",2021-05-22T06:00:41Z,6,0,347,0
+Inner product,CLE8NpJOGOI,"Inner product
+
+Different representation of  Matrix Multiplication, Inner  Product, Orthogonality, Cauchy-Schwarz Inequality",2021-05-22T05:45:53Z,6,0,303,1
+Properties of rank,VRkzg59ua2w,"Properties of rank
+
+Sylvester-Inequality, Frobenious-Inequality, Sub-additivity property of rank",2021-05-22T05:35:55Z,5,0,267,0
+Fundamental theorem of linear algebra,ezt2QGeNlnw,"Fundamental theorem of linear algebra
+
+ Fundamental theorem of linear algebra",2021-05-22T05:28:19Z,10,0,266,0
+Fundamental subspaces of a matrix,vLaDX3nRgok,"Fundamental subspaces of a matrix
+
+""Four Fundamental subspaces of a matrix,
+Relation between dimension of the spaces and rank of the matrix""",2021-05-22T05:09:17Z,4,0,301,0
+Linear transforms,yoTWRBC_dg8,"Linear transforms
+
+Linear transforms, vector spaces associated with a linear transform/matrix, range space/column space",2021-05-22T04:58:45Z,16,0,649,0
+"Basis, dimension",ZGmJnG7DGR4,"Basis, dimension
+
+Basis for a Vector Space, basis theorem, properties of a basis",2021-05-22T04:45:28Z,84,0,2292,5
+Vector spaces,sKQtUYfEHII,"Vector spaces
+
+Vector space, Field, Linear combination, Span, Range space, Subspace of a vector space",2021-05-22T04:33:41Z,52,2,1290,3
+Course introduction and properties of matrices,jqU0q21PHEQ,"Course introduction and properties of matrices
+
+Course introduction, Properties of matrices, Matrix multiplication, Trace of a matrix, Matrix transpose, Hermitian matrix",2021-05-22T04:19:57Z,115,0,3567,8
+Five Reasons to study Data Science,itvZBkcltxs,"Five Reasons to study Data Science
+Mr. Shreyas Bhargave
+Director (Technology), Capgemini Technology Services India Ltd.",2021-05-21T08:06:15Z,42,0,1346,1
+Importance of Communication Skills in IT Sector,1Pyuxyu_jhU,"Importance of Communication Skills in IT Sector
+Mr. Sajjad Ahmed
+Director - HR, Capgemini",2021-05-21T08:02:30Z,141,2,2583,5
+Five Reasons to Study Data Science,IZ2NkJiotVs,"Five Reasons to Study Data Science
+Dr. Prasad Ramanathan
+Sr. Director, Capgemini Technology Services India Ltd.",2021-05-21T07:56:15Z,64,2,1179,4
+"LIVE _ NPTEL Awareness workshop in association with Institute of Excellence in Mgmt Science, Hubli",dvpt42Rm_WQ,"Please fill this feedback form to obtain an e-participation certificate : https://tinyurl.com/NPTEL-Awareness-Workshop-May21
+
+
+NPTEL Awareness workshop in association with INSTITUTE OF EXCELLENCE IN MANAGEMENT SCIENCE, HUBLI, KARNATAKA And K.L.E.DR. M. S. SHESHGIRI COLLEGE OF ENGINEERING AND TECHNOLOGY, UDYAMBAG, BELAGAVI, KARANATAKA",2021-05-12T11:09:36Z,781,14,15425,10
+"LIVE_ NPTEL Awareness workshop in association with Brainware University, Barasat, West Bengal",vw63sIqMcB0,"Please fill this feedback form to obtain an e-participation certificate : https://tinyurl.com/NPTELAwarenessWorkshop-May19
+
+NPTEL Awareness workshop in association with Brainware University, Barasat, West Bengal",2021-05-12T11:08:04Z,648,12,13719,5
+IITMadras_NPTEL studio Inauguration 26th March 2021,6qC7MFJynG4,,2021-04-15T09:44:29Z,413,10,15087,41
+nptelhrd Live Stream,ACJYmMgVy5A,,2020-09-21T06:25:53Z,78,33,7621,19
+Symmetry and Group Theory,fqMJU5KYoTw,Prof. Jeetender Chugh - IISER PUNE,2021-02-09T09:56:44Z,177,6,6117,6
+Awareness Workshop on Credit Transfer and Domain Certification,4Z1FjYXdazk,,2021-02-01T04:59:30Z,354,17,8891,5
+Hydro Turbomachines - Francis turbine-Part-02,MtueN0ByKIs,"Hydro Turbomachines - Francis turbine-Part-02
+
+Off-design operaion using inlet guide vanes, Draft tube, Effective head
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:06:08Z,24,1,2796,5
+Thermal Turbomachines-Part-02,vfSm89HwMoc,"Thermal Turbomachines-Part-02
+
+Worked example
+
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:08:05Z,15,1,1354,0
+Thermal Turbomachines-Part-01,tBOvmL04LGw,"Thermal Turbomachines-Part-01
+
+Degree of reaction of a stage, Worked example
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:07:59Z,16,1,1467,1
+Thermal Turbomachines - Steam Turbines,I6ali5qxu6I,"Thermal Turbomachines - Steam Turbines
+
+Impulse and reaction steam turbines, Velocity compunding, Pressure compounding and Velocity and pressure compounding
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:07:44Z,16,0,1571,0
+Thermal Turbomachines - Gas turbines,VvCvrOQ9NsM,"Thermal Turbomachines - Gas turbines
+
+Stationary and aircraft engine application, Design and off-sesign operation, Variable guide vanes, Multi-spools, Counter rotating turbines, Blade cooling
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:07:29Z,20,0,1511,2
+Thermal Turbomachines - Introduction,ZevnM-couyQ,"Thermal Turbomachines - Introduction
+
+Introduction to thermal turbomachines -- steam and gas turbines, Axial flow reaction and impulse machines, single stage and multistage machines, axial compressors
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:07:12Z,19,2,1034,0
+Positive Displacement Pumps - Gear pump,6dt0aH2LBKU,"Positive Displacement Pumps - Gear pump
+
+Positive displacement machines vs. turbomachines, Gear pump, Characteristics, Effect of viscosity, Worked example
+
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:06:56Z,13,0,1131,0
+Hydro Turbomachines - Pelton turbine,hJA7jPiceTg,"Hydro Turbomachines - Pelton turbine
+
+Impulse turbine, Pelton turbine, Multiple jets, Optimum speed, Optimum penstock dimension, Worked example, Specific speed, Turbine selection chart
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:06:32Z,8,0,1067,0
+Hydro Turbomachines - Kaplan turbine,b7kTKdEISHc,"Hydro Turbomachines - Kaplan turbine
+
+Reaction turbine, Axial turbine, Kaplan turbine, Design operating condition, Worked example
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:06:18Z,10,1,900,0
+Hydro Turbomachines - Francis turbine-Part-01,utOHXJvqI9o,"Hydro Turbomachines - Francis turbine-Part-01
+
+Reaction turbine, Radial turbine, Francis turbine, Design operating condition, Worked examples
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:05:58Z,16,0,1158,0
+Hydro Turbomachines - Centrifugal pumps-Part-04,jdQcaHlopfU,"Hydro Turbomachines - Centrifugal pumps-Part-04
+
+Types of pumps, specific speed, classification using specific speed
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:03:18Z,4,0,811,0
+Hydro Turbomachines - Centrifugal pumps-Part-03,wcFNgPen_5o,"Hydro Turbomachines - Centrifugal pumps-Part-03
+
+Worked example involving actual characteristic of a centrifugal pump, effect of impeller diameter and speed, dimensionless characteristics
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:02:57Z,4,0,1113,1
+Hydro Turbomachines - Centrifugal pumps-Part-02,_-yk5GwFnKM,"Hydro Turbomachines - Centrifugal pumps-Part-02
+
+Actual characteristics of Centrifugal pumps, Unstable characteristic, Cavitation, Design operating point, Net Positive Suction Head, NPSH available and required, Worked example
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:02:43Z,7,0,903,0
+Hydro Turbomachines - Centrifugal pumps-Part-01,VQqiVVYuNks,"Hydro Turbomachines - Centrifugal pumps-Part-01
+
+Simplification of the pressure rise across a rotor for an incompressible fluid, Efficiency, Theory of centrifugal pumps, Ideal characteristics, Forward, radial and backward curved blade, Worked example
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:02:29Z,6,3,827,0
+Basic Theroy of Turbomachines-Part0-06,Io9sohnXYsw,"Basic Theroy of Turbomachines-Part0-06
+
+Worked examples involving velocity triangles
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:02:23Z,6,1,550,0
+Basic Theroy of Turbomachines-Part-05,bXdQq8QWURY,"Basic Theroy of Turbomachines-Part-05
+
+Worked examples
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:02:15Z,10,1,636,0
+Basic Theroy of Turbomachines-Part-04,PxXYe12zNs0,"Basic Theroy of Turbomachines-Part-04
+
+Relation between pressure change and relative velocity, Interpretation of velocity triangles
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:02:08Z,4,0,659,0
+Basic Theroy of Turbomachines-Part-03,gJcSiF4yuaM,"Basic Theroy of Turbomachines-Part-03
+
+Illustration of an axial machine rotor process on a Ts diagram, Degree of reaction, Impulse and reaction machines, Connection between rotor process and blade passage area
+
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:01:55Z,5,2,666,0
+Basic Theroy of Turbomachines-Part-02,pQxGhR9KVOg,"Basic Theroy of Turbomachines-Part-02
+
+Alternate forms of Euler's turbomachinery equation, Connection between thermodynamics and fluid mechanics of turbomachinery process, Variation of pressure along a streamline through the rotor, Illustration on a Ts diagram
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:01:42Z,67,1,2390,7
+Basic Theroy of Turbomachines-Part-01,P1WOz65KWH4,"Basic Theroy of Turbomachines-Part-01
+
+Euler's turbomachinery equation, Notion of blade element, Radial and axial machines, Relative velocity, Velocity triangle, Flow angle and blade angle definition and sign convention
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:01:30Z,57,0,2281,4
+Introduction,ocVzrn4DLj8,"Introduction
+
+Introduction to turbomachines, types, classification, practical examples
+
+Prof. Babu Viswanathan
+Introduction to Turbomachines
+IIT Madras",2021-01-12T07:01:09Z,78,1,6201,9
+NPTEL Awareness Online Workshop - Tuesday (Kerala ) for faculty,Poro35jCBWM,Please ask your questions/comments through this Google form: http://tiny.cc/Jan-19_Faculty_Feedback,2020-12-29T11:47:19Z,147,6,4850,1
+NPTEL Awareness Online Workshop - Tuesday  (Kerala ) for Students,rsQ_Xtm0UXg,Please ask your questions/comments through this Google form: http://tiny.cc/Jan-19_Student_Feedback,2020-12-29T11:50:03Z,164,8,4995,2
+NPTEL Awareness Online Workshop - Wednesday (Odisha/ NE / Chhattisgarh / Jharkhand) for Faculty,ITc-v4ucf0M,Please ask your questions/comments through this Google form: http://tiny.cc/Jan-13_Faculty_Feedback,2021-01-13T04:18:11Z,189,4,4962,4
+NPTEL Awareness Online Workshop - Wednesday (Odisha/ NE / Chhattisgarh / Jharkhand) for Studnets,Fhzh4wg2cik,Please ask your questions/comments through this Google form: http://tiny.cc/Jan-13_Student_Feedback,2021-01-13T04:18:33Z,83,0,2412,3
+NPTEL Awareness Online Workshop - Wednesday (Odisha/ NE / Chhattisgarh / Jharkhand) for Studnets,5Y7_x8UdG34,,2020-12-29T11:45:36Z,83,0,2283,0
+NPTEL Awareness Online Workshop - Wednesday (Odisha/ NE / Chhattisgarh / Jharkhand) for faculty,6qaCv45EM3Q,,2020-12-29T11:44:07Z,58,4,1951,2
+NPTEL Awareness Online Workshop - Tuesday for faculty,Rivul1t3Q94,Please ask your questions/comments through this Google form: http://tiny.cc/Jan-12_Faculty_Feedback,2020-12-29T11:39:14Z,334,16,7643,2
+NPTEL Awareness Online Workshop - Tuesday for Students,GMhszSuWsvg,Please ask your questions/comments through this Google form: http://tiny.cc/Jan-12_Student_Feedback,2020-12-29T11:39:58Z,464,8,10238,9
+The NPTEL certification and course that he took up helped Vinoth in cracking job interviews,4es_jhBmokE,"Vinoth Kumar from KLN College of Engineering, Tamil Nadu feels that the NPTEL course he took up came in handy during the job interviews, where he was able to ace the rounds and bag the offer. He currently works at Mesco Aerospace Work Centre CSIR - National Aerospace Laboratories as a Composite Tool Designer.",2020-10-28T12:23:26Z,348,10,18757,20
+LIVE - Applied Linguistics,sGAMj3qkbAM,Prof. Rajesh Kumar - IITM,2020-09-24T05:16:23Z,120,8,6204,3
+LIVE - Introduction to Developmental Biology,CjZczOphnwU,Prof. Subramaniam K - IITM,2020-09-24T05:29:05Z,153,8,5874,6
+LIVE - Ecology and Environment,EJT8IojTWEQ,Prof. R.Ravi Krishna - IITM,2020-09-25T05:54:28Z,164,8,5089,5
+LIVE _ NPTEL Awareness Workshop,w_lInSoh-bs,"NPTEL Awareness Webinar organized by G H Raisoni University, Amravati and NPTEL, IIT Madras.This webinar will cover details related to NPTEL Online Certification process and how colleges can partner with NPTEL as Local Chapters.
+
+A feedback form for the participants will be opened during the session and closed within 15 minutes of the end of the webinar. E-Certificates will be provided only to the participants who are pre-registered to the workshop and submitted the feedback form.
+
+Feedback form linkhttps://forms.gle/D2ejriC7gZGXSfZm8",2020-09-02T10:18:44Z,574,28,14749,5
+NPTEL Impact & Infrastructure,oZ7x_jcCEmQ,,2020-08-21T08:34:59Z,102,5,5161,21
+Live_NPTEL AWARENESS Workshop 18th Aug 2020,LKCErtLN2Gw,"NPTEL Awareness Webinar organized by Pallavi Engineering College, Telangana and NPTEL, IIT Madras.This webinar will cover details related to NPTEL Online Certification process and how colleges can partner with NPTEL as Local Chapters.
+
+A feedback form for the participants will be opened in the second half of the session and closed within 15 minutes of the end of the webinar. E-Certificates will be provided only to the participants who are pre-registered to the workshop and submitted the feedback form.
+
+Feedback form link: https://forms.gle/zvkEpcpfSAgVC6Z7A",2020-08-07T08:48:30Z,371,12,11345,2
+Live_NPTEL AWARENESS Workshop 13th Aug 2020,sB1_zCQ8UMk,"NPTEL Awareness Webinar organized by Galgotias University and NPTEL, IIT Madras.This webinar will cover details related to NPTEL Online Certification process and how colleges can partner with NPTEL as Local Chapters.
+
+A feedback form for the participants will be opened during the session and closed within 15 minutes of the end of the webinar. E-Certificates will be provided only to the participants who are pre-registered to the workshop and submitted the feedback form.
+
+Feedback form link: https://forms.gle/t2cmau68jt6zmvzq9",2020-08-07T08:47:06Z,347,17,11446,12
+NPTEL Domain Certification,peIFYcP7zbI,NPTEL Domain Certification,2020-08-03T05:00:54Z,664,10,35436,50
+Joy of Computing has brought joy in Ajay's programming activities,fJK62qKrHS4,"Ajay from R C Patel Institute of Technology, Maharashtra elucidates how taking up the course Joy of Computing in Python has changed his perspective of programming. He credits that the course for helping him develop logical skills. He is with a company called Sunlink Photovoltaic, at present.",2020-07-31T04:21:12Z,52,3,3376,4
+When an NPTEL course faciliatated Punita Jani in learning Data Science concepts from the scratch,H6-yDKimzM0,"For Punita Jani who works as a consultant at ATOS Syntel, the NPTEL course on data science that she took helped her learn data science from scratch. She already had the experience of working on data analytics and wished to learn data science, going further.",2020-07-31T04:21:07Z,40,1,4622,1
+Athar says that NPTEL courses gave him industry relevant knowledge,zvzuLxXjd5U,"Athar Nawaz Shah from Amity School of Engineering and Technology, Uttar Pradesh believes that NPTEL courses helped him in getting knowledge relevant to the industry in addition to gaining knowledge in a particular domain.",2020-07-31T04:21:02Z,24,2,1869,0
+Pranay credits NPTEL courses for giving clarity on the various subject concepts,ueBaoqKP71k,"Pranay Sharma from Army Institute of Technology, Pune, Maharashtra says that NPTEL courses have helped him understand concepts with greater clarity. He works as a Technical Specialist in Cummins Inc.",2020-07-31T04:20:57Z,36,1,1561,3
+NPTEL courses have aided Raghavendra Chowdery in cracking GATE 2020 with an AIl India Rank of 62,D8iQcL89mn4,"The various courses that Raghavendra Chowdery from Guru Nanak Institutions Technical Campus , Telangana did aided him in geting an All India Rank (AIR) of 62 in the GATE-2020 examination. This helped him secure a seat in IIT-Bombay.",2020-07-31T04:20:53Z,88,1,4224,4
+Taking up NPTEL courses helped Bikash ace his interviews,wBcYz6rYLUs,"Taking up NPTEL courses aided Bikash Kumar Singh from Guru Nanak Institute of Technology, West Bengal in coming out with flying colours in all his interviews. He has been recruited by ITC Infotech for the designation of an Associate IT Consultant.",2020-07-09T07:27:57Z,97,6,4925,3
+NPTEL courses aided Hanuma Kumar in bagging a job,ZSF6iDUtaUU,"Hanuma Kumar from KKR and KSR Institute of Technology and Sciences, Andhra Pradesh says that NPTEL courses helped him in performing well in the job interviews. He currently works as an Associate Professional Software Engineer at DXC Technologies.",2020-07-09T07:28:00Z,22,2,1622,0
+LIVE _ NPTEL AWARENESS Workshop 30th July 2020,pzwJHQunuj0,"NPTEL Awareness Webinar organized by MES College ,Erumely and NPTEL, IIT Madras.This webinar will cover details related to NPTEL Online Certification process and how colleges can partner with NPTEL as Local Chapters.
+
+A feedback form for the participants will be opened during the session and closed within 15 minutes of the end of the webinar. Participation Certificate will be issued to pre-registered candidates based on the response to feedback form  
+
+Feedback form link: https://forms.gle/VtjZGGqCxEb9bHo49",2020-07-25T11:15:56Z,270,11,8273,3
+LIVE _ NPTEL Awareness E- Workshop 2020,Hnq4XRaie-E,"NPTEL Awareness Webinar organized by SHREE RAYESHWAR INSTITUTE OF ENGINEERING & INFORMATION TECHNOLOGY, GOA and NPTEL, IIT Madras.This webinar will cover details related to NPTEL Online Certification process and how colleges can partner with NPTEL as Local Chapters.
+
+A feedback form for the participants will be opened during the session and closed within 15 minutes of the end of the webinar. E-Certificates will be provided only to the participants who are pre-registered to the workshop and submitted the feedback form.
+
+Feedback form link: https://forms.gle/XMciBzEzEX2NS1sm7",2020-07-17T04:44:49Z,199,13,7275,6
+LIVE _ NPTEL AWARENESS Workshop 28th July 2020,9YBEZlsWGjQ,"NPTEL Awareness Webinar organized by Bheemanna Khandre Institute of Technology, Bhalki and NPTEL, IIT Madras.This webinar will cover details related to NPTEL Online Certification process and how colleges can partner with NPTEL as Local Chapters.",2020-07-27T08:47:14Z,471,11,13287,11
+LIVE _ NPTEL AWARENESS Workshop,keF1Z55Faxs,"NPTEL Awareness Webinar organized by MARUDHAR KESARI JAIN COLLEGE FOR WOMEN and NPTEL, IIT Madras.This webinar will cover details related to NPTEL Online Certification process and how colleges can partner with NPTEL as Local Chapters.
+
+A feedback form for the participants will be opened during the session and closed within 15 minutes of the end of the webinar.
+
+Feedback form link: https://forms.gle/4vJLjSomAgHXZKu1A",2020-07-25T10:57:40Z,267,15,10650,199
+LIVE _ NPTEL Awareness E- Workshop 2020,TXK0YPb9J5I,"NPTEL Awareness Webinar organised by Sir M. Visvesvaraya Institute of Technology, Bangalore and NPTEL , IIT Madras.This webinar will cover details related to NPTEL Online Certification process and how colleges can partner with NPTEL as Local Chapters.
+
+A feedback form for the participants will be opened during the session and closed within 15 minutes of the end of the webinar.
+
+Feedback form link: https://forms.gle/m6tKsZzjxotwiP5G6",2020-07-17T04:43:52Z,339,10,10946,5
+LIVE _ NPTEL Awareness E- Workshop 2020,2COEa-Rs094,"NPTEL Awareness Webinar Organized by Anjuman-I-Islam's Kalsekar Technical Campus,Panvel and NPTEL IIT Madras.This webinar will cover details related to Nptel Online Certification process and how colleges can partner with Nptel as Local Chapters
+A quiz for participants will be announced during the session, and a response to quiz can be submitted at  https://forms.gle/LUFvNnvHwuSwyi2C6
+The form will  be opened when quiz is announced in the session and closed within 15 minutes of end of webinar. E-Certificate for participation will be issued , based on this quiz response, only for participants who have registered earlier.",2020-07-17T04:42:42Z,298,16,8654,7
+LIVE _ NPTEL Awareness E- Workshop 2020,PPTmQpPL5eQ,"NPTEL Awareness Webinar Organized by VedaVyasa Institute of Technology,Malappuram  and NPTEL IIT Madras.This webinar will cover details related to Nptel Online Certification process and how colleges can partner with Nptel as Local Chapters
+A quiz for participants will be announced during the session, and a response to quiz can be submitted at  https://forms.gle/viKqrq8c9xfKzagq7
+The form will  be opened when quiz is announced in the session and closed within 15 minutes of end of webinar. E-Certificate for participation will be issued based on this quiz response.",2020-07-17T04:41:08Z,285,17,8968,16
+LIVE _ NPTEL Awareness Workshop,cv4SSlqGxdY,"NPTEL Awareness Webinar Organized by Manipal University Jaipur and NPTEL IIT Madras.This webinar will cover details related to Nptel Online Certification process and how colleges can partner with Nptel as Local Chapters
+A quiz for participants will be announced during the session, and a response to quiz can be submitted at https://forms.gle/Fhw9bvsRF6b8rutt8. The form will  be opened when quiz is announced in the session and within 15 minutes of end of webinar. E-Certificate for participation will be issued based on this quiz response.",2020-07-13T04:21:58Z,396,16,12314,11
+NPTEL Awareness E - Workshop 2020,QgroJAPcoR8,"NPTEL Awareness Webinar organized by Mahakal Institute of Technology,Ujjain and NPTEL IIT Madras.This webinar will cover details related to Nptel Online Certification process and how colleges can partner with Nptel as Local Chapters
+A quiz for participants will be announced during the session, and a response to quiz can be submitted at https://forms.gle/bFkGjbN4oi6jkJAq7. The form will  be opened when quiz is announced in the session and within 15 minutes of end of webinar. E-Certificate for participation will be issued based on this quiz response.",2020-07-17T04:39:22Z,611,16,15246,18
+LIVE _ NPTEL Webinar on Credit Transfer Policy,5diEiUiCPEU,Link for the slides used in the video - https://drive.google.com/file/d/1qW6zHLybZYfPo0T-rgnef5ZIdVXkWWtM/view,2020-07-13T04:00:45Z,409,8,13348,13
+Mohammed Fahim says he enjoyed the process of gaining expertise in Soft Skills,7uwgnINX8sE,"Being good with Soft Skills has always been a big plus when it comes to trying for a job. Mohammed Fahim from NSS Engineering College, Kerala mentions that after taking up the soft skills course on NPTEL, he has been able to gain a level of expertise in the area. He has got placed at UST Global.",2020-07-09T07:28:08Z,44,2,3049,8
+Pritish Raj says that NPTEL courses aided him in bagging a job at Mu Sigma,BGUx7uZqCWo,"Pritish Raj from Sir M Visvesvaraya Institute of Technology, Karnataka credits NPTEL courses for aiding him in performing well in his placement rounds. He has got a job offer from Mu Sigma, wherein the designation is Decision Scientist.",2020-07-09T07:28:13Z,72,3,4122,3
+NPTEL courses have helped Hari Gowtham in exploring new domains,RW7ptT52vsk,"Hari Gowtham from PES University, Bangalore says that NPTEL courses have aided him in exploring various domains and updating his knowledge. He has got a job offer from TVS Motors.",2020-07-09T07:28:03Z,28,2,2644,6
+NPTEL Courses played a pivotal role in Vishwajeet's GATE Preparation,WTzRQqefx_w,"Vishwajeet Pandey from IIT Roorkee, Uttarakhand credits NPTEL courses for refining his basic concepts in his subjects and preparing the learners to give competitive exams.",2020-07-09T08:34:32Z,117,0,3490,2
+Savitoj Singh mentions that an NPTEL course helped in self grooming and much more,oLL3E2vDcqY,"The course , Product Design and Development not only helped Savitoj Singh from Guru Nanak Dev Engineering College, Ludhiana groom himself but also came of use to him during his technical interview at Nestle, wherein he bagged the job.",2020-07-09T07:28:19Z,5,0,577,0
+The NPTEL courses that he took up have helped Kapil in keeping his subject knowledge updated,yKyjrBhHOok,"Kapil Jain from Teerthanker Mahaveer University, Uttar Pradesh mentions that the NPTEL courses that he had taken aided in updating his knowledge in his field of study and in learning beyond bookish knowledge.",2020-07-09T07:28:06Z,76,3,1413,24
+NPTEL courses came in handy for Shruthy during a job interview,AO5W5crGa3U,"The concepts learnt during the courses greatly helped Shruthy Seshadrinathan from ICT Mumbai, Maharashtra during her job interview. She did well in the interview and got placed at Biocon as a Senior Executive.",2020-07-09T07:28:22Z,71,1,2853,3
+When taking an NPTEL Course helped Dhanunjaya Reddy crack GATE and get placed in a core company,PH3MKjSwBrw,Dhanunjaya Reddy from Telangana took the course Analog Electronics for aiding his GATE preparation. He passed the exam with a good score and ended up bagging an offer from Soctronics.,2020-07-09T08:34:16Z,9,0,627,0
+When the NPTEL platform gave good exposure on various topics for Sriharsha,_Kn0AWgxPZU,"Sriharsha Namilakonda from NIT Kurukshetra, Haryana took up an NPTEL course, Data Science for Engineers and says that the course gave him exposure on algorithms used to perform data analysis. He has been recruited by Lowe's India.",2020-07-09T07:28:27Z,1,0,368,0
+A Textile Engineering student narrates his experience with NPTEL,rfnDXJXqXkQ,"Sumedhraj Hindolkar from IIT Delhi took up a course, Yarn Manufacturing 1: Principles of Carding and Drawing in NPTEL wherein the course helped him in preparing well for GATE. He is currently pursuing M.Tech in Textile Engineering.",2020-07-09T08:34:25Z,52,3,2767,3
+From meticulous preparation to MNIT Jaipur,xPxS9tKOWR8,Sharad Suman from MNIT Jaipur took up courses from NPTEL to aid his GATE preparation. He passed the exam with good marks and got admitted into the M.Tech program with Power Systems Engineering being his specialisation.,2020-07-09T08:34:19Z,7,0,1470,0
+LIVE _ NPTEL Awareness Workshop - 3rd July 2020,f-BcpT4tu6Q,"The National Programme on Technology Enhanced Learning (NPTEL) was initiated by seven Indian Institutes of Technology (Bombay, Delhi, Kanpur, Kharagpur, Madras, Guwahati and Roorkee) along with the Indian Institute of Science, Bangalore in 2003. Five core disciplines were identified, namely, civil engineering, computer science and engineering, electrical engineering, electronics and communication engineering and mechanical engineering and 235 courses in web/video format were developed in this phase.
+Some highlights:
+
+Largest online repository in the world of courses in engineering, basic sciences and selected humanities and social sciences subjects
+
+Online web portal http://nptel.ac.in – more than 471 million+ views
+Youtube channel for NPTEL – most subscribed educational channel, 1.5 million+ channel subscribers, 404 million+ views
+More than 56000 hours of video content
+Most accessed library of peer-reviewed educational content in the world
+52000+ hours of transcribed content; 51000+ hours of subtitled videos",2020-06-27T16:20:01Z,1148,20,17692,34
+LIVE _ NPTEL Awareness Workshop 2nd July 2020,nG9Ybp9BVqA,"The National Programme on Technology Enhanced Learning (NPTEL) was initiated by seven Indian Institutes of Technology (Bombay, Delhi, Kanpur, Kharagpur, Madras, Guwahati and Roorkee) along with the Indian Institute of Science, Bangalore in 2003. Five core disciplines were identified, namely, civil engineering, computer science and engineering, electrical engineering, electronics and communication engineering and mechanical engineering and 235 courses in web/video format were developed in this phase.
+Some highlights:
+
+Largest online repository in the world of courses in engineering, basic sciences and selected humanities and social sciences subjects
+
+Online web portal http://nptel.ac.in – more than 471 million+ views
+Youtube channel for NPTEL – most subscribed educational channel, 1.5 million+ channel subscribers, 404 million+ views
+More than 56000 hours of video content
+Most accessed library of peer-reviewed educational content in the world
+52000+ hours of transcribed content; 51000+ hours of subtitled videos",2020-06-30T13:43:25Z,2836,123,43810,81
+Taking up NPTEL courses has enabled Trishna to understand various aspects of her subjects,Zft5cCoK2t8,"Trishna from IIT Kharagpur, West Bengal believes that NPTEL courses have refined her subject knowledge. She feels that the courses helped her in getting doubts cleared, as well.",2020-06-08T11:03:50Z,74,10,6244,3
+NPTEL courses motivated him to switch domains for Masters,2Zf3vExF8J4,"Switching from Mechanical Engineering to Physics is no easy task. But, Prasanna from IIT Bombay, Maharashtra has managed to change streams and is currently studying MSc in Physics.",2020-06-08T11:03:41Z,80,8,5671,6
+Akshay credits NPTEL courses for being instrumental in cracking GATE and mastering fundamentals,ywZgbHreUTA,"Akshay from IIT Dharwad, Karnataka beleives that NPTEL courses played a huge role in helping him crack GATE with a good score. He says that even after joining IIT, the courses have helped him in getting a good grasp of his fundamentals. He is currently pursuing M.S. by Research in Mechanical Engineering",2020-06-08T11:03:27Z,39,3,2110,0
+When an NPTEL course helped Pooja crack her GATE interview,Y4UL9woNOkw,"NPTEL courses are known to have helped learners in GATE examination, but this was one instance where having a certification proved valuable in the interview. Pooja, who joined M.Tech in Geoinformatics at IIT Kanpur, Uttar Pradesh recounts how the certification made a big difference in her resume and helped in impressing her interviewers.",2020-06-08T11:03:35Z,273,18,15478,30
+Harischandra's interest to explore the finer nuances of study made him take up multiple courses,OqLb-mz16vw,"Harischandra from Truba Institute of Engineering and Information Technology, Madhya Pradesh wished to navigate soil mechanics and foundation engineering, among other topics in his field of interest. These NPTEL courses have taught him the concepts with greater depth, thereby refining his knowledge of his subjects. He has got a job in his own field of specialisation at Strata Geosystem India Private Limited.",2020-05-26T11:56:03Z,30,7,2812,2
+From coding courses to coding rounds - how Payani excelled in his interviews,HlZImkDWP-U,"The examples taught along with the concepts helped Payani from G Pulla Reddy Engineering College, Andhra Pradesh understand the underlying ideas with good clarity. This helped him bag offers with 2 IT giants, namely TCS and Infosys",2020-05-26T11:56:11Z,30,1,2570,4
+NPTEL plays a pivotal role in Subhadip's preparation for entrance exams,-IxxbRxdx_Q,"Right from subjects at college to preparation for exams like BARC, GATE, Subhadip from Kalyani Government Engineering College, West Bengal opines that NPTEL courses have facilitated quality learning and extensive preparation for exams. He has got placed at Haldia Petrochemicals, which happens to be a job in his own field of specialisation.",2020-05-26T11:56:25Z,20,4,1425,0
+Taking up an NPTEL course helped Ashish grasp the intricacies in data flow,NdDbLyze3r8,"Learning the idea of data flow in a more pragmatic way not only helped Ashish from Avanthi Institute of Engineering and Technology understand the concept with more clarity, but also helped him during his job interviews. He has got a job offer from ValueMomentum.",2020-05-26T11:55:51Z,21,1,2810,3
+One course can change one's life - it did change Ravi's life,_gg1ntoPwLo,"Ravi Chandra from Vignana Jyothi Institute of Engineering and Technology, Telangana enrolled in an NPTEL course, Introduction to Machine Learning without any idea as to how it would impact his life in the future. The course helped him ace the interview at Capgemini and he got the job. He deals with many Machine Learning at work in his current profile.",2020-05-26T11:56:15Z,37,4,1639,1
+Dinesh's interest in Python programming has shot up after taking up this NPTEL course,vOLz5M1QryU,"The course Joy of Computing using Python skyrocketed Dinesh's interest in the language. He has pursued his Bachelors from Sathyabama Institute of Science and Technology, Tamil Nadu and has been recruited by Mphasis.",2020-05-26T11:56:00Z,15,1,780,2
+Saavi credits NPTEL courses for helping her in exploring topics of interest,eRImA18FuSU,"Saavi from Central University of Rajasthan, Rajasthan believes that NPTEL courses have always helped her , i.e., for entrance exams previously and for work and upgradation of knowledge, currently that is useful for her work at Evelyn Learning Systems.",2020-05-26T11:56:22Z,15,2,1319,3
+Elucidating tougher concepts of the concepts by the NPTEL aided Dharani in learning them thoroughly,DD9hgzGREz0,"NPTEL courses helped Dharani from Velalar College of Engineering, Tamil Nadu grasp tougher ideas like JDBC and increased her clarity on the same. She has been recruited by Kanini Software Solutions.",2020-05-26T11:55:57Z,7,1,2513,1
+NPTEL courses taught Mohit the skill of attention to details in programming,9rEgFJCVLTk,"The biggest takeaway from NPTEL courses has been attention to the smaller details for Mohit from Galgotias University, Uttar Pradesh who has also been recruited by CTS. He feels that this often ignored aspect makes a huge difference in the bigger scheme of things and improves the coding aptitude for the learners.",2020-05-26T11:56:07Z,7,1,613,0
+When half of Abhijeet's interview was about NPTEL course concepts,GMes_Ssna5Y,"Abhijeet from Dr. B C Roy Engineering College, West Bengal was in for a pleasant surprise when around half his interview was centered around the ideas he had learnt in his NPTEL courses. He confidently answered the questions and got a job with 3 IT majors including Wipro.",2020-05-26T11:38:54Z,20,0,855,1
+Acing the tests - how NPTEL courses facilitated Pratik during his job interviews,X5drjeFbCcw,"When he took up NPTEL courses on programming, never did Pratik from Ujjain Engineering College, Madhya Pradesh expect that they would come to his aid during job interviews. The knowledge that he gained from the courses helped him get a job at TCS.",2020-05-26T11:39:14Z,6,0,529,1
+An NPTEL course in IoT added a lot of weightage to Jeslin's resume,-AchshZ7MBg,"A course on Internet of Things (IoT) helped Jeslin from Kalasalingam Academy of Research and Education, Tamil Nadu in improving her knowledge base. It also extended more gravitas to her resume, thus helping her bag a job at Mitsuba Sical India Private Limited.",2020-05-26T11:39:03Z,20,2,1855,1
+Arnab's pursuit of NPTEL courses landed him a job at Infosys,JuoxwZYXq2o,"Having done 4 courses with NPTEL, Arnab from Asansol Engineering College, West Bengal improved his programming knowledge through various courses and got placed in Infosys through NPTEL's placement assistance program.",2020-05-26T11:38:57Z,19,0,1109,4
+"Master the latest trends through NPTEL courses, just like Unmesha",r1Ccx7gmalk,"A deep interest in a few topics led Unmesha from Tezpur University, Assam to pursue courses on topics like Internet of Things, etc. The courses taught all concepts right from the basics that helped her gain expertise in them. She has got placed in ABB.",2020-05-26T11:39:16Z,103,8,4676,14
+Mrityunjoy's grasp of safety at workplace increased after taking up an NPTEL course,cD0TMae2MkQ,"Emphasising the importance of safety at work, Mrityunjoy from Surendra Institute of Engineering and Management, West Bengal says that a course on safety in the industry educated him on the various possibilities of mishaps and various precautions aided him in his job at Wishing Well Water Filters",2020-05-26T11:39:08Z,19,1,1359,3
+NPTEL courses powered Jeel's way to a job at Adani Green Energy Limited,V4Dxcq0depM,"Enrolling for a course in NPTEL helped Jeel in predicting power output gained, with respect to his line of work. He studied at Birla Vishwakarma Mahavidyalaya, Gujarat and is now working for Adani Green Energy Limited",2020-05-26T11:39:00Z,19,3,1231,5
+Sahiti's Journey towards mastering Python landed her a job at Wipro,6mF-3zV8HNg,"Sahiti from Vignan's Institute of Management and Technology for Women, Telangana recalls how she had her NPTEL exam and her job interview on the same day, hours apart. Preparation for the exam helped her put her best foot forward in the interview and she ended up getting the offer from Wipro.",2020-05-21T05:07:19Z,52,6,4082,8
+How Rakesh cracked the code to become a Systems Engineer at Infosys,P7C0e0ZGxZU,"Having topped all the exams that he appeared for, Rakesh from University Institute of Technology, Burdwan , West Bengal has had a 100% success record with NPTEL courses. He mentions that these courses aided a lot in his preparation for his job interview and how his confidence improved after topping the courses that ultimately helped him ace his tests and interviews, getting him a job at Infosys.",2020-05-21T05:07:14Z,18,2,2737,10
+Blitzing past technical rounds - a tale of how NPTEL courses guided Neeraj's way to bagging an offer,n9LoxjwCv40,Taking up a course at NPTEL helped Neeraj perform well in his interviews. The concepts from the course aided him during his technical rounds and thus secured him the job.,2020-05-21T05:07:06Z,20,0,1479,0
+Specialising using NPTEL courses got Manjushree her dream job,-GU7--427tQ,"She persevered to get her dream job at Elexes Medical Consulting and NPTEL courses guided her the way to it. Manjushree from BMS College of Engineering, Karnataka recounts the courses that she has done and wishes to learn the upgraded version of her favourite course, as well.",2020-05-21T05:06:54Z,137,5,6360,7
+Taking up NPTEL courses refined Hrushikesh's knowledge of his core subjects,US_O1khl1ys,Hrushikesh mentions that the NPTEL courses that he took helped him work on his core competencies and helped him give his best shot in the interviews.,2020-05-21T05:06:47Z,34,3,2411,4
+Certifications from NPTEL facilitated Avinash in getting placed at Accenture,Srld-pMAozU,"Seeing 6 certifications from NPTEL on his resume, Avinash's interviewer was impressed - this helped him get placed at Accenture as an Associate Software Engineer",2020-05-21T05:06:42Z,113,9,5885,7
+Mod - 08  Lec-18 Voronoi Diagram Construction,EFg7avIoSv8,,2020-02-28T12:19:45Z,83,11,12047,6
+NPTEL Exam Registration Form - TELUGU,3aaKvsk-2nk,,2020-01-24T10:18:55Z,108,3,10708,10
+NPTEL Exam Registration Form _ Marathi,RJ5QUFXM5Qs,,2020-01-22T07:28:21Z,60,2,5550,8
+NPTEL Exam Registration Form - HINDI,nM-FRjZYwKk,NPTEL Exam Registration Form - HINDI,2020-01-21T14:12:45Z,65,1,6446,3
+NPTEL Exam Registration Form - Malayalam,IMYdY902mZI,,2020-01-21T12:10:04Z,41,3,4313,8
+NPTEL Exam Registration Form - Tamil,x7U-Ml3mKFo,,2020-01-21T11:47:21Z,87,4,7466,15
+NPTEL Exam Registration Form - Bengali,nRjxmBxRcps,,2020-01-21T06:12:55Z,81,4,4596,4
+NPTEL Exam Registration Form - Kannada,66EI_1Ipdbk,,2020-01-17T07:12:11Z,65,4,4967,0
+NPTEL Exam Registration Form - English,HVnIyzDnjno,,2020-01-14T10:22:52Z,244,10,18609,27
+NPTEL - Most Extensive & Most Viewed Education Channel in the World,lcpHTBWmJ6U,"NPTEL Online Certification Courses
+
+Since 2013, through an online portal, 4-, 8-, or 12-week online courses, typically on topics relevant to students in all years of higher education along with basic core courses in sciences and humanities with exposure to relevant tools and technologies, are being offered. The enrolment to and learning from these courses involves no cost.",2019-11-21T12:46:02Z,1192,87,203932,74
+LECTURE 15 CURVES CONTD,E8lWqYvdCjQ,,2019-07-05T05:29:15Z,144,13,19919,7
+NPTEL -  Feedbak Ghaziabad April 2019 AN,nxmqhy_bCOs,,2019-05-14T08:39:01Z,182,24,19884,20
+NPTEL - Feedback Ghaziabad April 2019 FN,rhlD56lU5JM,,2019-05-14T08:35:48Z,107,8,13530,7
+Fluorescence.,EO520medT4o,,2019-05-13T06:58:33Z,96,3,12015,4
+Protein Folding Kinetics : Rapid Mixing and Relaxation Techniques (Contd...),f3FTRRkbZmU,,2019-05-13T06:24:21Z,55,3,6670,2
+Protein Folding Kinetics : Rapid Mixing and Relaxation Techniques (Contd.),x5cjednLaOw,,2019-05-13T06:22:21Z,27,4,4817,0
+Pressure Induced Denaturation (The P-T Diagram),f8zlpv720IU,,2019-05-13T06:20:06Z,22,2,3855,0
+Mechanism of Chemical Denaturation,0e0VfsgMFNw,,2019-05-09T07:01:52Z,8,0,1339,0
+Protein Folding : The Chevron-Plot,0oQtn1cysAU,,2019-05-09T07:26:57Z,7,0,2217,1
+Protein Folding : Mechanisms and Kinetics (Contd..),1-PdTIXBBaM,,2019-05-09T07:25:22Z,21,0,3201,0
+Protein Folding : Mechanisms and Kinetics,4uU0LxQ9nMo,,2019-05-09T07:21:19Z,3,2,928,0
+Thermodynamics of Protein Unfolding (Contd.),8HCZ-fkn99I,,2019-05-09T07:00:30Z,10,2,1966,1
+Diffusion (Contd..),9LFSNIQbPnc,,2019-05-09T07:12:19Z,5,0,962,1
+Infrared Spectroscopy of Proteins,9iaFzCUg1p4,,2019-05-09T07:47:27Z,17,1,2463,0
+Spectroscopy : The Franck Condon Principle (Contd.),HGIrL3IQ8kY,,2019-05-09T07:40:00Z,8,1,1052,3
+Protein Folding : Mechanisms and Kinetics (Contd.),Ph5OqahgmuA,,2019-05-09T07:23:35Z,18,0,2182,1
+Hydrogen Bonding,TQ_kysGk84Q,,2019-05-09T06:55:00Z,7,1,1329,0
+Langevin Equation and Brownian Motion,VBaah8drgVA,,2019-05-09T07:14:05Z,18,2,2515,3
+Spectroscopy : The Franck Condon Principle,bW0eG3C_RSs,,2019-05-09T07:37:56Z,40,2,3880,3
+Electrostatics (Contd..),cQh4O3rdhTQ,,2019-05-09T06:43:32Z,13,0,1415,0
+Protein Stability Curves,ehudj-OvfTM,,2019-05-09T06:56:54Z,7,0,1459,0
+Protein Folding Kinetics : Rapid Mixing and Relaxation Techniques (Contd..),kcJX7ZlE_hA,,2019-05-09T07:32:28Z,9,0,1500,1
+Diffusion,pntBNnU82tc,,2019-05-09T07:07:08Z,9,0,1540,0
+Protein Folding Kinetics : Rapid Mixing and Relaxation Techniques,somc1nvGwJs,,2019-05-09T07:29:03Z,6,0,833,0
+Langevin Equation and Brownian Motion (Contd..),-ccG4YKSSbw,,2019-05-09T07:19:27Z,3,0,751,0
+Electronic Spectroscopy Absorption and Fluorescence,4LzP7AZ-KW0,,2019-05-09T07:41:31Z,17,0,1089,1
+Fluorescence Quenching,ExGQnRw75lA,,2019-05-09T07:45:21Z,52,1,2499,3
+Thermodynamics of Protein Unfolding,F-EHekcXxc8,,2019-05-09T06:58:56Z,7,0,1074,0
+Infrared Spectroscopy of Proteins (Contd.),Kp4Say8-cWs,,2019-05-09T07:49:12Z,6,1,1202,0
+Experimental Tools,VjcgmXq3scY,,2019-05-09T07:35:48Z,6,3,1147,0
+Diffusion (Contd.),Ys_7pgSdz88,,2019-05-09T07:09:35Z,2,1,712,0
+Langevin Equation and Brownian Motion (Contd.),bdnYEB3ByO8,,2019-05-09T07:16:42Z,3,0,1141,0
+Protein Folding Pathways and Energy Landscapes,uCQOX42H1Ak,,2019-05-09T07:05:42Z,32,4,2884,2
+Hydrophobic Effect (Contd.),5sdo-zh43wA,,2019-05-09T06:53:21Z,12,0,1418,0
+Electrostatics (Contd.),EOSwxYfd2MU,,2019-05-09T06:36:16Z,15,0,1920,3
+Secondary Structure of Proteins,PC8C8G1E6N8,,2019-05-09T06:27:07Z,11,1,1559,1
+Intermolecular Interactions,UtFJXM23-HE,,2019-05-09T06:38:22Z,8,0,905,0
+Dipole-Dipole Interaction,_Jt_0ZyU9I4,,2019-05-09T06:40:49Z,9,0,917,1
+Forces in Protein Folding,beNAzYn6fKE,,2019-05-09T06:33:01Z,7,0,1520,1
+Protein Structure,cdn_3hMok2Q,,2019-05-09T06:25:23Z,22,0,2632,3
+Forces in Protein Folding (Contd.),ezlq5srPp54,,2019-05-09T06:34:11Z,51,3,5601,1
+Secondary Structure of Proteins (Contd.),mVfh2U9x3Yc,,2019-05-09T06:29:25Z,18,0,1623,1
+Tertiary Structure,mkwxeXTBT20,,2019-05-09T06:31:31Z,9,0,944,0
+Hydrophobic Effect,qzLZHm4PcfE,,2019-05-09T06:51:31Z,16,0,1564,0
+A Course on Bio-physical Chemistry,ydCI3rUzjdU,,2019-05-09T06:23:17Z,58,1,6923,2
+NPTEL Story - 28Feb2019,6OV7aZSW-1w,,2019-03-28T12:35:11Z,198,11,6613,23
+NPTEL : NOC Multiple Course Taker Feedback,tYnK4yAW6yA,"Feedback of Ms.ROOHI MEHTA (Faculty, THAKUR COLLEGE OF ENGINEERING AND TECHNOLOGY) who had  completed 6 NPTEL Certifications.",2019-03-04T11:08:45Z,252,45,26075,26
+NPTEL : NOC Multiple Course Taker Feedback,vrwSHDtA8Hc,"Feedback of Mr.Dr. SAAD ULLAH KHAN (Faculty, MANIPAL UNIVERSITY ) who had  completed 6 NPTEL Certifications.",2019-03-01T14:00:40Z,25,9,3869,2
+NPTEL : NOC Multiple Course Taker Feedback,h8y2LB3sQvA,"Feedback of Mr.AMAN VERMA (Student, KRISHNA INSTITUTE OF TECHNOLOGY) who had  completed 5 NPTEL Certifications.",2019-02-28T12:16:35Z,11,6,2142,3
+NPTEL : NOC Multiple Course Taker Feedback,7vUtjDYNEuQ,"Feedback of Mr.ARKADIPTA DE (Student, GOVT. COLLEGE OF ENGINEERING & TEXTILE TECHNOLOGY) who had  completed 6 NPTEL Certifications.",2019-02-28T12:16:44Z,19,3,2007,1
+NPTEL : NOC Multiple Course Taker Feedback,n0XoBr93ruA,"Feedback of Mr.ANUJ SAHU (Student, ABES ENGINEERING COLLEGE) who had  completed 5 NPTEL Certifications.",2019-02-28T12:17:23Z,21,1,1170,2
+NPTEL : NOC Multiple Course Taker Feedback,_3qrsOF4B-4,"Feedback of Mr.JITENDER KUMAR , ZILLION INFRA PROJECTS PVT LIMITED who had  completed 5 NPTEL Certifications.",2019-02-28T12:17:55Z,23,2,1194,0
+NPTEL : NOC Multiple Course Taker Feedback,VRrzRQtjRuQ,"Feedback of Mr.N.V.MANJUNATH (Faculty, BANNARI AMMAN INSTITUTE OF TECHNOLOGY) who had  completed 3 NPTEL Certifications.",2019-02-28T12:18:05Z,21,0,1243,1
+NPTEL : NOC Multiple Course Taker Feedback,Ia3FRSfrDeg,"Feedback of Mr.PRABUSANKAR.R (Faculty, SRI KRISHNA COLLEGE OF TECHNOLOGY) who had  completed 10 NPTEL Certifications.",2019-02-28T12:18:42Z,5,0,615,2
+NPTEL : NOC Multiple Course Taker Feedback,HnAzc0yKHos,"Feedback of Mr.PRAJIT T R (Student, M S RAMAIAH INSTITUTE OF TECHNOLOGY) who had  completed 13 NPTEL Certifications.",2019-02-28T12:18:49Z,4,1,779,0
+NPTEL : NOC Multiple Course Taker Feedback,nLTFaePy4h4,"Feedback of Mr. CHIGICHERLA VENKATA SAI PRASANNA (Student, JJNTUA College of Engineering) who had  completed 6 NPTEL Certifications.",2019-02-28T12:20:40Z,58,3,2438,4
+NPTEL : NOC Multiple Course Taker Feedback,5RtVYOp8qZs,"Feedback of Mr. SALAHUDDEN (Student, Indian Institute of Technology Kanpur) who had  completed 9 NPTEL Certifications.",2019-02-28T12:25:51Z,34,6,3613,1
+NPTEL : NOC Multiple Course Taker Feedback,ZMoo5-0I7Lw,"Feedback of Ms.MITALI VEDANTI (Faculty, CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY) who had  completed 5 NPTEL Certifications.",2019-02-27T12:16:35Z,27,0,1754,3
+NPTEL : NOC Multiple Course Taker Feedback,ezkt-PZ8glE,"Feedback of Ms.AMUDHA G (Faculty, RMD ENGINEERING COLLEGE) who had  completed 5 NPTEL Certifications.",2019-02-27T11:05:22Z,19,0,1528,1
+NPTEL : NOC Multiple Course Taker Feedback,dwXcgV7ARnA,"Feedback of Mr.BRIJESH KUMAR  (Student,  B N COLLEGE OF ENGINEERING AND TECHNOLOGYl ) who had  completed 12 NPTEL Certifications.",2019-02-27T10:57:05Z,23,0,757,3
+NPTEL : NOC Multiple Course Taker Feedback,pYah-XGQiCE,"Feedback of Ms.N KUMUTHA (Faculty, THIAGARAJAR COLLEGE OF ENGINEERING) who had  completed 6 NPTEL Certifications.",2019-02-27T10:46:17Z,3,0,535,0
+NPTEL : NOC Multiple Course Taker Feedback,5-Gyi81OQpw,"Feedback of Mr.HANNAN SATOPAY  (Student,  VIDYALANKAR INSTITUTE OF TECHNOLOGY ) who had  completed 6 NPTEL Certifications.",2019-02-27T09:51:03Z,29,3,1968,2
+NPTEL : NOC  Course Taker Feedback,2WbNu-bSgsg,"Feedback of Mr. AMITBODH UPADHYAYA (Faculty, LAKSHMI NARAIN COLLEGE OF TECHNOLOGY & SCIENCE )",2019-02-27T09:50:59Z,20,3,1016,1
+NPTEL : NOC Multiple Course Taker Feedback,91w3UkRUwWs,"Feedback of Mr.MOHINI PRASAD MISHRA (Faculty, GANDHI ENGINEERING COLLEGE ) who had  completed 7 NPTEL Certifications.",2019-02-27T09:50:29Z,15,23,1090,1
+NPTEL : NOC Multiple Course Taker Feedback,p9ZdFkDQzQs,"Feedback of Mr. PANKAJ KUMAR RAWAT (Faculty, GCRG MEMORIAL TRUST GROUP OF INSTITUTION ) who had  completed  9 NPTEL Certifications.",2019-02-14T11:51:24Z,77,6,4518,18
+NPTEL : NOC Multiple Course Taker Feedback,5itFb4FhVJo,"Feedback of Ms. SHREYASI DATTA  (Faculty, INSTITUTE OF ENGINEERING & MANAGEMENT) who had  completed 5  NPTEL Certifications.",2019-02-14T11:28:46Z,18,2,1750,1
+NPTEL : NOC Multiple Course Taker Feedback,Nnun9fWXGS8,"Feedback of Mr.SEERA SAI SANTOSH KUMAR (Student, MAHARAJ VIJAYARAM GAJAPATHI RAJ COLLEGE OF ENGINEERING) who had  completed 6 NPTEL Certifications.",2019-02-14T11:19:18Z,42,3,1912,3
+NPTEL : NOC Multiple Course Taker Feedback,wNTMIjpMWxs,"Feedback of Mr. CHANDRAMOHAN G(Faculty, PSG INSTITUTE OF TECHNOLOGY) who had  completed 5 NPTEL Certifications.",2019-02-14T10:48:17Z,19,2,1157,1
+NPTEL : NOC Multiple Course Taker Feedback,Frci3p4ko8Q,"Feedback of Mr.BURRA KARUNA KUMAR
+(Faculty, GUDLAVALLERU ENGINEERING COLLEGE
+) who had  completed 7 NPTEL Certifications.",2019-02-14T09:26:03Z,60,4,2893,8
+NPTEL:NOC Multiple  Course Takers Feedback,BqZi_yCkPrw,"Feedback of Ms.K. PUNITHAVALLI  (Student,  KONGU ARTS AND SCIENCE COLLEGE, ERODE) who had  completed 17 NPTEL Certifications.",2019-02-13T11:59:02Z,66,7,4022,5
+NPTEL:NOC Multiple  Course Takers Feedback,mcsugLchtsE,"Feedback of Mr.S NISHANTH  (Student, SRI RAMAKRISHNA ENGINEERING COLLEGE, COIMBATORE) who had  completed 16 NPTEL Certifications.",2019-02-13T09:34:30Z,50,7,3415,11
+NPTEL : NOC Multiple Course Taker Feedback,DfaLjO7rnwg,"Feedback of Ms.ZEBA MUNIB (Pharmacist, Jamia Millia Islamia
+Hospital) who had  completed 9 NPTEL Certifications.",2019-02-12T13:41:35Z,70,22,5220,14
+NPTEL: NOC Maximum Course Taker's Feedback,6F9vwPbufU8,"Feedback of Mr.Vignesh Adithya (Student,  KONGUNADU COLLEGE OF ENGG AND TECHNOLOGY) who had  completed 25 NPTEL Certifications.",2019-02-08T09:45:31Z,115,11,7206,53
+Catalytic Effects Reactions in Emulsions Complex Formation,2wLJ385qu3I,,2018-12-03T05:00:07Z,3,0,542,1
+Diffusion Potential Surface and Interfacial Potentials Components of Contact Potential,7gYvrYJpY1Q,,2018-12-03T04:44:54Z,4,0,645,0
+Properties over Curved Surfaces,9J-ONF4T2tE,,2018-12-03T04:24:43Z,7,0,1362,0
+"Surface and Interfacial Tensions: Wilhelmy Plate, Pendant Drop and Maximum Bubble Pressure Methods",9p75OPe-A9Y,,2018-12-03T04:39:26Z,9,0,683,0
+Total Surface Energy,B-Kh-1zq9M4,,2018-12-03T04:26:09Z,7,1,931,1
+General Introduction Definitions,C-eUvgb8q4U,,2018-12-03T04:21:11Z,35,2,5774,2
+"Surface waves and Ripples, Velocity Effect of Surface Tension and Surface Compressional Modulus Rate",CH1KCwB_mqg,,2018-12-03T04:53:57Z,15,0,1475,0
+Electrically Charged Monolayers Gouy Theory,CuMHYrgJp4w,,2018-12-03T04:46:11Z,9,0,2425,0
+Evaporation and its Retardation Resistances and their Analysis Diffusional Resistance in Gas Phase,EuY_M8IUG1c,,2018-12-03T05:03:58Z,3,0,380,1
+"Shear Elastic Moduli,Yield Stress Fibres from MLs, Surface Reactions",G8nxEkkKutI,,2018-12-03T04:56:26Z,4,0,494,0
+Magnitudes of Surface Compressional Moduli Surface Waves and Ripples,IR3Vyt5xsVk,,2018-12-03T04:52:36Z,8,0,1093,1
+"Colloida, Aerosols, Emulsions Foams, Coagulation Smoluchowski\\\'s Theory",NIK0iBEPnfg,,2018-12-03T05:07:55Z,9,0,1121,0
+"Spreading, Interfacial Tensions, Surface Tensions",NxWR0SjR9fU,,2018-12-03T04:31:36Z,22,4,4123,0
+Introductory Concepts Resistances and their Magnitudes Evaporation and its Retardation,P98am3OX2dA,,2018-12-03T05:02:34Z,4,1,661,0
+"General Introduction, Definitions, Surface Tension",Pj_Pbc5d0x0,,2018-12-03T04:22:23Z,8,0,1966,2
+"Cohesion, Adhesion and Spreading",PzCKPSScv6Y,,2018-12-03T04:28:56Z,6,1,965,0
+"Surface Reactions, Comparison with Bulk-Phase Reactions Steric Factors, Inhibition",Q01zDz8V71g,,2018-12-03T04:57:56Z,12,3,1312,1
+Canal Method Joly\'s Semi-Empirical Correction Rotational Torsional Surface Viscometer Compressional,Q2QRC8kJ6uY,,2018-12-03T04:51:09Z,66,5,11278,2
+"Wetting Balance Method Spreading Coefficient Work of Adhesion Sessile Drop Method , Positive S",T3yOkRkDX9Y,,2018-12-03T04:40:48Z,6,2,936,0
+"Spreading, Contact Angles Free Energies",Tlo7truxUi8,,2018-12-03T04:32:49Z,7,0,592,0
+Spreading from Liquids and Solids,VbS13NPizvA,,2018-12-03T04:30:12Z,6,0,822,0
+Surface Instability Theories of Mass Transfer Experiments on static and Dynamic Systems,_3maLOkeISQ,,2018-12-03T05:06:40Z,2,0,459,0
+"Films of Polymers Molecular Weight, Surface Viscosity Drag, Canal Method",ax2B7QcMa9Y,,2018-12-03T04:49:38Z,9,2,1574,0
+"Interfacial Tension Entropy, Cohesion, Adhesion",cXqI8-p_DjM,,2018-12-03T04:27:29Z,6,0,658,0
+Surface and Interfacial Potentials Distribution and Contact Potentials,cYfw9G5kDlU,,2018-12-03T04:43:53Z,3,0,477,1
+"Spreading / Contact Angles Rough Surfaces, Free Energies",fg2b1w6zICE,,2018-12-03T04:34:21Z,11,0,995,1
+Surface Tension Free Energies and Adsorption,hqSh_NxwYyw,,2018-12-03T04:23:27Z,11,2,1511,0
+"surface waves and ripples,velocity effect of surface tension and surface compressional modulus dampi",j9vPv_WsXtw,,2018-12-03T04:55:23Z,14,2,2653,0
+Hydrolyses of Esters by Alkali Acid or Enzyme Photochemical Reactions in Monolayers Polymerization i,k0TpHD_TzJo,,2018-12-03T04:59:09Z,4,1,779,0
+"Equations of State, Cohesion Repulsion, Limiting Area",nZP9PvkdwD0,,2018-12-03T04:47:10Z,5,0,882,0
+"Spreading / Contact Angles Work of Adhesion, De-wetting",pAY-sfMs2h4,,2018-12-03T04:35:47Z,38,0,5736,3
+Surface and Interfacial Tensions: Drop Weight and Wilhelmy Plate Methods,ptqswWPCCSU,,2018-12-03T04:38:16Z,9,0,1007,2
+"Resistances in Liquid Phase and Interface and Their Importance Some Effects and Applications, Theory",q5dAaL5edBg,,2018-12-03T05:05:21Z,14,0,1564,0
+Condensed and Liquid Expanded Monolayers Phase Transformations,qXJpEgq21u4,,2018-12-03T04:48:22Z,9,1,1070,0
+"Indirect and Direct Methods for Positive S, Adhesion Energies Interfacial Potentials",vxEkPpPTMeI,,2018-12-03T04:42:19Z,15,2,1214,1
+Complex Formation Penetration into Monolayers Thermodynamics of Penetration Adsorption from Vapour P,x1zzFBdfPh0,,2018-12-03T05:01:11Z,0,0,702,1
+"Work of Adhesion, Surface and Interfacial Tensions",z3zpzwC4g9I,,2018-12-03T04:37:00Z,6,0,774,0
+Wave Propagation : Surface Impedance; Power Loss in a Conductor Reflection at a Perfect conductor,-xOq-WxXOgg,97,2018-11-16T04:29:01Z,8,1,750,0
+"Wave Propagation: Polarisation,Poynting Vector",0Xmkm8LjJNw,,2018-11-16T04:24:25Z,10,0,843,0
+Wave Guides (Contd.),4MzJAW4Bx7Q,,2018-11-16T04:40:27Z,2,0,366,0
+ransmission Lines : Travelling Waves (cont.);Sinusoidal Signals;Impedence Transformation,5bZo395ejKA,,2018-11-16T04:12:32Z,3,0,764,2
+Transmission Lines : Standing Wave Ratio:Measurement of Impedence,6X5m4biKCF8,,2018-11-16T04:13:22Z,10,0,969,0
+Radiation(contd.)Monopole Antennas half Wave Dipole Antenna,7ayRUdhkF7c,,2018-11-16T05:03:06Z,20,1,1461,4
+Transmission Lines Section as Circuit Elements,8UNVc9xZL04,,2018-11-16T04:16:18Z,5,0,818,0
+Transmission Lines : Impedance Matching using Stub- Lines,9E4_vazlHtE,,2018-11-16T04:18:46Z,7,0,647,0
+Wave Propagation,9xcp_dQgXtA,,2018-11-16T04:21:29Z,6,0,972,0
+Transmission Lines : Smith Chart,9ypQWh0mD4E,,2018-11-16T04:17:49Z,6,0,1142,0
+Reflection and Refraction of waves (Contd.)-1,Bk7c_PUTTnk,,2018-11-16T04:33:35Z,5,1,522,0
+Radiation(contd.),ELdNVxCqadc,,2018-11-16T05:04:35Z,10,0,1215,0
+Wave Guides(Contd.)Rectangular Wave Guides-1,GaZXEkANQVw,,2018-11-16T04:49:18Z,23,1,1957,2
+Radiation(contd.),Ifac2n8CUP4,,2018-11-16T04:58:25Z,15,0,1024,1
+Resonators(Contd.)Wave Guide Resonators,Lyo9Xy91gls,,2018-11-16T04:53:46Z,5,0,492,0
+Introduction,NDpWewMZYQQ,,2018-11-16T04:09:41Z,57,0,5213,6
+"Wave Guides(Contd.) Parallel plane Guide,Characteristics of TE & Tm Waves,TEM Waves,Wave Impedances",NvYaDesKu60,,2018-11-16T04:41:52Z,4,0,783,0
+Wave Guides(Contd.)-2,RJL4Rm7BhvA,,2018-11-16T04:44:49Z,10,1,956,2
+Radiation,RqYL2JL1X44,,2018-11-16T04:55:27Z,11,2,1351,2
+Wave Guides(Contd.)-1,TRE9MGjRWtU,,2018-11-16T04:43:25Z,1,0,260,0
+"Reflection and Refraction of waves : Reflection at the Surface of a Conducting Medium,Reflection at",TgEeJ1ZZDeM,,2018-11-16T04:30:29Z,59,3,12037,6
+Wave Guides(Contd.),VO0wINjTACI,,2018-11-16T04:47:50Z,4,0,403,0
+"Radiation(contd.)2-Element Arrays,Yagi-Uda Array",W-a5z8K9pcY,,2018-11-16T05:06:11Z,3,0,430,0
+"Wave Propagation: Power Flow,Complex Poynting vector,wave equation for a conducting Medium",W0GBnT348c4,,2018-11-16T04:25:56Z,14,0,1719,2
+Reflection and Refraction of waves (Contd.);Transmission Line Analogy for Planes Waves,Z1ceutoAcVM,,2018-11-16T04:36:25Z,27,1,3268,1
+Transmission Lines : Transmission Lines Parameters;(primary Constants),aNho0byJffU,,2018-11-16T04:20:09Z,13,1,1348,0
+Radiation(contd.)-2,cu95p2ovIoc,,2018-11-16T05:01:36Z,2,0,425,0
+Wave Propagation : Conducting Medium;Conductors & Dielectrics Depth of Penetration;Surface Impedance,gk0oGxhmAcA,,2018-11-16T04:27:34Z,5,0,626,2
+"Transmission Lines : Reflection,Transmission;Travelling Waves",h6heKQO0lvI,,2018-11-16T04:11:33Z,35,3,2594,3
+Resonators General Properties,i0SZAOiZQ0w,,2018-11-16T04:50:40Z,8,0,684,0
+Wave Guides,i18S33e0QSU,,2018-11-16T04:37:42Z,10,0,1494,2
+Transmission Lines : Wave Propagation,iXWTrmRYKFE,,2018-11-16T04:10:34Z,30,1,2592,1
+Resonators(Contd.)Transmission Line Resonators,kf5GWcPBSgc,,2018-11-16T04:52:09Z,31,3,2164,3
+"Transmission Lines : General Transmission Lines Equations,Low loss,Transmission Lines,Transmission L",o-rOX4vtboA,,2018-11-16T04:15:20Z,8,0,772,0
+Reflection and Refraction of waves (Contd.),oCvAAciheFM,,2018-11-16T04:31:58Z,17,1,1922,0
+"Wave Guides(Contd.) Parallel plane Guide,Transverse Electric Waves,Field Distribution,Superposition",q9SZqxIRRuY,,2018-11-16T04:39:07Z,5,0,572,2
+Wave Propagation (contd.),uf2gLV8QYjg,,2018-11-16T04:22:59Z,11,0,729,0
+Reflection and Refraction of waves (Contd.);The Plane slab,v4Abmy0uaQ0,,2018-11-16T04:34:54Z,5,1,541,0
+Wave Guides(Contd.)Rectangular Wave Guides,vWS7Oxtk0AI,,2018-11-16T04:46:26Z,2,0,481,0
+Radiation(contd.)-1,xhWe-kBXnXc,,2018-11-16T05:00:01Z,3,0,260,1
+"Transmission Lines : Velocities of Propagation,Transmission Lines Charts",zCmBdUkT_Zk,,2018-11-16T04:16:59Z,10,0,1572,1
+SPOC Workshop 2018  IIT Kharagpur,Z4CRTbc8PuQ,"NPTEL is an acronym for National Programme on Technology Enhanced Learning which is an initiative by seven Indian Institutes of Technology (IIT Bombay, Delhi, Guwahati, Kanpur, Kharagpur, Madras and Roorkee) and Indian Institute of Science (IISc) for creating course contents in engineering and science.",2018-09-04T12:19:59Z,204,13,15666,12
+NPTEL SPOC Workshop 2nd August - IIT Bombay,nB7pCCAZNBg,,2018-08-09T11:47:24Z,326,16,24290,23
+SPOC Workshop 2018 - IIT Kanpur,AQy3ahM3Jn0,"SPOC Felicitation held at IIT Kanpur Outreach Centre, NOIDA on July 21, 2018",2018-08-07T03:47:59Z,148,10,11403,7
+lec40,ZxN2X2WQqCY,,2018-07-31T10:56:33Z,219,9,15083,8
+Mod-12 Lec-04 DC Model of a Large MOSFET: Surface Potential and VT Based Solutions of IDS,0nu65r1Xe8Y,,2018-07-27T10:38:28Z,55,4,5128,3
+Mod-12 Lec-03 DC Model of a Large MOSFET: Surface Potential and VT Based Solutions of IDS,6dfry--m4C0,"Dc Model Of a Large Uniformly Doped Bulk MOSFET: Surface Potential and Threshold Based Solutions of I DS (V GB, V DB, V SB)",2018-07-27T10:42:34Z,21,1,4370,1
+Mod-12 Lec-01 DC Model of a Large MOSFET: Surface Potential and VT Based Solutions of IDS,BXV1MiFuaug,,2018-07-27T10:52:48Z,8,1,2718,1
+"Mod-11 Lec-01 DC Model of a Large MOSFET: Eqns, Boundary Condns, Approximations",GvtiA-mWE3U,Mod-11 Lec-47,2018-07-27T10:56:44Z,72,5,12373,3
+Mod-12 Lec-02 DC Model of a Large MOSFET: Surface Potential and VT Based Solutions of IDS,HcXXKSpdvuI,,2018-07-27T10:47:54Z,36,0,3477,2
+"Mod-13 Lec-01 DC Model of a Large MOSFET: Testing, Improvement and Parameter Extraction",L-WJWRvf9co,,2018-07-27T09:59:04Z,16,0,2509,2
+"Mod-13 Lec-02 DC Model of a Large MOSFET: Testing, Improvement and Parameter Extraction",MUNGV4ESVA4,,2018-07-27T09:51:33Z,13,0,2322,1
+Mod-12 Lec-06 DC Model of a Large MOSFET: Surface Potential and VT Based Solutions of IDS,fMxdUfStWrY,,2018-07-27T10:26:22Z,19,0,3821,2
+Mod-12 Lec-05 DC Model of a Large MOSFET: Surface Potential and VT Based Solutions of IDS,xsKW2Min3Is,,2018-07-27T10:33:11Z,19,1,3175,1
+"Mod-14 Lec-01 DC Model of a Bulk MOSFET: Series R, non-uniform doping and small size effects",fUWLggdLkHk,,2018-07-27T09:39:30Z,101,1,15235,2
+"Mod-14 Lec-02 DC Model of a Bulk MOSFET: Series R, non-uniform doping and small size effects",OyVJUAkvU2o,,2018-07-27T09:35:43Z,22,2,3805,3
+SPOC Workshop on 14th July 2018,LIt9Q-P_2P8,"NPTEL Workshop for SPOCs (South Zone) - July 14, 2018
+
+This workshop is meant for those SPOCs who belong to colleges in the South Zone (Andhra Pradesh, Karnataka, Kerala, Tamil Nadu, Telangana and Pondicherry). Similar workshops will be held for colleges in the other zones as well. 
+
+NPTEL and the host Institute will jointly organize the workshop. The host college will invite 2-3 faculty members from colleges (both Engineering Institutions and Arts and Science colleges) that are within a radius of 150 km.
+
+Expected outcome: The faculty are aware of NPTEL and how it can be used and can take it back to the Heads of their institutions for implementation in the best way to benefit their students. These members can also have a session with their students, where they can explain about NPTEL to them.",2018-07-20T12:14:22Z,170,7,8220,14
+Mod-09 Lec-41 Value of Information,aJtiwRDWStU,"Operations and Supply Chain Management by Prof. G. Srinivasan , Department of Management Studies, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2012-11-05T09:08:54Z,89,6,7575,5
+NPTEL - Knowledge is FREE,wJOESS9VSzw,"NPTEL is an acronym for National Programme on Technology Enhanced Learning which is an initiative by seven Indian Institutes of Technology (IIT Bombay, Delhi, Guwahati, Kanpur, Kharagpur, Madras and Roorkee) and Indian Institute of Science (IISc) for creating course
+contents in engineering and science.
+
+NPTEL as a project originated from many deliberations between IITs, Indian Institutes of Management (IIMs) and Carnegie Mellon University (CMU) during the years 1999-2003. A proposal was jointly put forward by five IITs (Bombay, Delhi, Kanpur, Kharagpur and Madras) and IISc for creating contents for 100 courses as web based supplements and 100 complete video courses, for forty hours of duration per course. Web supplements were expected to cover
+materials that could be delivered in approximately forty hours. Five engineering branches (Civil, Computer Science, Electrical, Electronics and Communication and Mechanical) and core science programmes that all engineering students are required to take in their undergraduate engineering programme in India were chosen initially. Contents for the above courses were based on the model curriculum suggested by All India Council for Technical Education (AICTE) and the syllabi of major affiliating Universities in India.",2018-04-19T06:45:37Z,1682,44,374212,151
+NPTEL awareness workshop on Outcome Based Education-IISc Bangalore,ONel_pP5_QA,,2018-04-09T10:27:58Z,116,12,10607,10
+"IBM Workshop on 29th March 2018 - Prof. B.Ravindran, IIT Madras",0i4KL4l0h-Q,"Workshop on ""Robotic Behavior Driven By Machine Learning""
+Venue : IIT Madras",2018-04-05T04:07:02Z,117,11,11587,5
+"IBM Workshop on 29th March 2018 - Prof. Sudharshan, IIT Ropar",esVois0s3qg,"Workshop on ""Robotic Behavior Driven By Machine Learning""
+Venue : IIT Madras",2018-04-05T04:08:12Z,80,3,7861,4
+"NPTEL : NOC Exam Feedback : IIT Kharagpur, Oct 2017",LlLT0jyX-s0,"City & State :  Kharagpur , West Bengal
+
+Exam Date : 22-10-2017",2018-02-19T04:18:40Z,117,19,12384,35
+"IIT Bombay SPOC Workshop Jan 12, 2018 Part 3",SvCpzPKs43E,,2018-02-07T11:56:27Z,40,3,4489,2
+"IIT Bombay SPOC Workshop Jan 12, 2018 Part 1",muItMXa-GHs,,2018-02-07T11:46:46Z,135,3,9723,11
+"IIT Bombay SPOC Workshop Jan 12, 2018 Part 2",oJZn8jAvPoE,,2018-02-07T11:51:51Z,84,8,8755,5
+Lecture 20 - Synchronous Machine Modeling. Short Circuit Analysis (Contd.),iSJ-BZhLGBo,,2018-01-02T06:38:24Z,68,9,9239,3
+NOC feedback oct 2017 kk Part 1,a0VClwYE41s,,2017-12-22T13:21:59Z,24,4,4013,2
+"NPTEL : NOC Exam Feedback : Sree Narayana Mangalam Institute of Management and Technology, Oct 2017",lA1Kh0kPN9E,"City & State : Ernakulam, Kerala 
+
+Exam Date : 22-10-2017",2017-10-31T09:15:24Z,8,4,2225,2
+"NPTEL : NOC Exam Feedback : Ion Digital Zone, KIOT Campus, Oct 2017",bvb6GKt7AXc,"City & State : Salem, TamilNadu 
+
+Exam Date : 22-10-2017",2017-10-31T09:19:02Z,28,5,7068,7
+"iON Digital Zone iDZ, Vijayawada",0JMVCnZ1J5Y,,2017-10-31T09:16:25Z,50,14,27522,4
+"NPTEL : NOC Exam Feedback :  ION Digital Zone iDZ 1 Moula Ali, Hyderabad Oct 2017",ISAQOYgTl3s,"City & State : Hyderabad, Telangana 
+
+Exam Date : 24-09-2017",2017-10-31T09:17:57Z,40,7,14281,5
+"NPTEL : NOC Exam Feedback : ION Digital Zone - Chennai, Oct 2017 - Part 2",musc14Dnlvk,"City & State : Chennai, TamilNadu 
+
+Exam Date : 22-10-2017",2017-11-27T05:25:08Z,35,8,5671,3
+"NPTEL : NOC Exam Feedback : ION Digital Zone - Chennai, Oct 2017 - Part 3",lKD4L48o1Ls,"City & State : Chennai, Tamil Nadu 
+
+Exam Date : 22-10-2017",2017-11-27T05:10:35Z,80,4,13152,4
+Bangalore 24 09 17,9HOQ1cpXKBM,,2017-11-15T07:08:23Z,57,6,9397,5
+"NPTEL : NOC Exam Feedback :  IISc Bangalore, Oct 2017",0rdUGYjQmcw,"City & State : Bangalore, Karnataka 
+
+Exam Date : 22-10-2017",2017-11-15T04:38:47Z,104,12,15538,5
+"Fortune Towers, Chennai 24 09 2017",TqKpLTU4yFA,,2017-11-06T05:47:59Z,62,10,9263,4
+"NPTEL : NOC Exam Feedback : ION Digital Zone - Chennai, Oct 2017 - Part 1",Nq0mgA3BO14,"City & State : Chennai, TamilNadu 
+
+Exam Date : 22-10-2017",2017-11-06T05:10:55Z,58,3,8572,3
+Lec1,ovMRHaRt3E4,,2017-10-10T05:35:31Z,230,20,23115,15
+Crop. Water Requirements (Continued),l6Gi1jrL0FU,,2017-08-18T10:28:38Z,27,5,7684,5
+Crop. Water Requirements (Contd.),-WMvHofbzXA,,2017-08-18T10:28:23Z,12,2,3038,1
+Crop. Water Requirements (continue),dTq7oDeh9cg,,2017-08-18T10:28:55Z,8,1,3587,1
+Crop Water Requirements Continued,idO6G3cWxqM,,2017-08-18T10:28:06Z,1,0,1961,1
+Irrigation Efficiencies - Part 1,C18kSBkIUms,,2017-08-18T10:29:15Z,9,0,1914,0
+Soil- Water - Plant Relationships (Continue),afJNLG_FSmo,,2017-08-18T10:26:35Z,2,0,1758,1
+Crop Water Requirements (Continued),tmogswnjVEo,,2017-08-18T10:27:49Z,5,0,1275,0
+Soil - Water- Plant Relationships (Continued),9a22yIPPYxo,,2017-08-18T10:26:03Z,15,1,2016,0
+Crop Water Requirements,Xd7RdoC6b-I,,2017-08-18T10:27:13Z,2,0,1050,0
+Irrigation Methods - III,hXyZhTKYEGo,,2017-08-18T10:29:54Z,9,3,1180,2
+Crop Water Requirements (Contd.),myuPPGKCw6I,,2017-08-18T10:27:29Z,4,0,1044,0
+Irrigation Efficiencies - II and Irrigation Methods and their Suitability,qEcIwkpcAIg,,2017-08-18T10:29:36Z,5,1,1683,0
+Soil - Water - Plant Relationships (Contd.),vOxhJulRbw4,,2017-08-18T10:13:34Z,9,0,1907,0
+Soil - Water - Plant Relationships (Contd.) & Infiltration,QhcPGo4HuFc,,2017-08-18T10:26:48Z,6,1,889,0
+Introduction to Irrigation Water Management,VGf8lS6joJQ,,2017-08-18T10:11:56Z,35,1,4614,3
+Soil â€“ Water - Plant Relationships,rkx2zOVfOaM,,2017-08-18T10:12:56Z,6,0,1454,0
+Irrigation Methods - IV,IzwZcAcuKF0,,2017-08-18T10:30:19Z,2,1,663,0
+Irrigation Methods - V,h-p0qfogWx4,,2017-08-18T10:30:39Z,2,0,422,0
+Irrigation Methods - VI,xiDsAGoUOxA,,2017-08-18T10:31:00Z,6,0,1085,0
+Irrigation Methods and their Suitability,6YEOnqV2lyc,,2017-08-18T10:31:21Z,2,1,603,0
+Border Irrigation System - I,642U-6SKnFc,,2017-08-18T10:31:48Z,2,0,725,0
+Border Irrigation System - II,sBy7hMPEyJg,,2017-08-18T10:32:09Z,1,0,1046,0
+Border Irrigation System - III,BoduDYiumic,,2017-08-18T10:32:29Z,3,0,542,0
+Border Irrigation System - IV,R8Ti2G-8gJs,,2017-08-18T10:32:50Z,3,0,545,0
+Review of DC Models of BJT (Contd.) and FET,au8IFwk6mSU,,2017-08-18T11:03:52Z,31,2,6347,2
+FET Characteristics and Models,gWCt7Er3iKs,,2017-08-18T11:04:21Z,30,0,5223,2
+Review of DC Models of Diodes & BJT\'s,d2XZDhfgJxU,,2017-08-18T11:03:28Z,129,0,20776,11
+BJT Biasing and Bias Stability,l6M6FvjUdTI,,2017-08-18T11:05:26Z,37,1,5160,4
+Drip Irrigation System - III,528t79gDVQQ,,2017-08-18T10:38:08Z,2,0,634,0
+Drip Irrigation System - IV,GjwrU4hYpCE,,2017-08-18T10:38:26Z,35,3,6439,1
+Problem Session - 1 on DC Analysis of BJT Circuits,cAf3ehNx_hQ,,2017-08-18T11:04:57Z,23,2,3824,1
+Drip Irrigation System - II,xmj66Q_Zngk,,2017-08-18T10:37:44Z,4,2,900,0
+Drip Irrigation System - I,jH3X89rFEZA,,2017-08-18T10:37:33Z,15,0,1796,3
+Sprinkler Irrigation System - VIII,Ozy5FKAfjaw,,2017-08-18T10:37:16Z,3,0,454,0
+Sprinkler Irrigation System - VII,R_A_gAQs2jM,,2017-08-18T10:36:55Z,3,0,363,0
+Sprinkler Irrigation System - VI,BsBiaBdjfvI,,2017-08-18T10:36:35Z,3,0,820,0
+Sprinkler Irrigation System - V,jpWtpmdFXjY,,2017-08-18T10:36:12Z,2,1,396,0
+Sprinkler Irrigation System - IV,RjqQ7Kq6H2w,,2017-08-18T10:35:52Z,2,0,441,0
+Sprinkler Irrigation System - II,AjGr-HLc-Dw,,2017-08-18T10:35:05Z,3,0,380,0
+Sprinkler Irrigation System - III,LZGrJrldxS8,,2017-08-18T10:35:24Z,1,0,455,0
+Sprinkler Irrigation System - I,N7oppRaQb3M,,2017-08-18T10:34:40Z,8,0,614,0
+Furrow Irrigation System - IV,6_AKq1_d6nw,,2017-08-18T10:34:22Z,1,0,440,0
+Furrow Irrigation System - III,UycL1soib04,,2017-08-18T10:34:01Z,2,0,688,0
+Furrow Irrigation System - II,Sux15yZBb2o,,2017-08-18T10:33:38Z,2,0,296,0
+Furrow Irrigation System - I,RLUSj3eBAoM,,2017-08-18T10:33:15Z,3,0,398,0
+BJT Bias Stability (Contd.),c3oKdjDImXo,,2017-08-18T11:06:08Z,11,2,2082,1
+"FET Biasing, Current Sources",jaOxeB-BQ8E,,2017-08-18T11:06:45Z,21,0,2463,2
+Current Mirrors ; BJT Small Signal Models,6Zm9Kt5-cxQ,,2017-08-18T11:08:15Z,4,0,2177,2
+Problem Session 2 on FET & BJT Characteristics and Biasing,meykvJDLkJI,,2017-08-18T11:07:36Z,7,0,1489,1
+Small Signal Amplifiers: Mid Frequency Analysis,Y3CBKAPBlU8,,2017-08-18T11:08:56Z,14,0,2167,1
+Problem Session - 3 on Mid- Frequency Analysis of CE Amplifiers,-BBc2AaXNT4,,2017-08-18T11:10:44Z,8,0,1139,1
+Mid Frequency Analysis of the CE and CB Amplifier,Uoyi4JcPAX0,,2017-08-18T11:09:33Z,16,2,2046,0
+Midband Analysis of CB and CC Amplifiers,fVcdff236uw,,2017-08-18T11:11:30Z,10,0,1358,0
+Advantages of Negative Feedback Amplifiers,0K6vyowDAKM,,2017-08-18T11:23:25Z,11,0,1281,0
+Introduction to Feedback Amplifiers,Cqouhsl4Yx0,,2017-08-18T11:22:53Z,14,0,1811,1
+More on Oscillators,HDS96uHyW2I,,2017-08-18T11:26:54Z,11,0,1275,1
+Sinusoidal Oscillators : An Example of Positive Feedback,Pe6BmuAc2OY,,2017-08-18T11:26:18Z,18,0,1713,1
+Problem Session - 7 on Deferential and Power Amplifiers,lxi5SrZtJrg,,2017-08-18T11:22:05Z,5,0,965,0
+Problem Session - 8 on Feedback Amplifiers,-hXiIrhqanM,,2017-08-18T11:25:26Z,11,1,1411,2
+Differential Amplifiers,LjGB9oj3WIQ,,2017-08-18T11:16:25Z,13,0,1830,0
+Class A Power Amplifiers; Efficiency Considerations,Lk8SkiWv8yg,,2017-08-18T11:21:08Z,8,1,906,0
+"Class B, Class AB and Class A Power Amplifiers",SpvmeG1hs7k,,2017-08-18T11:20:39Z,17,2,1703,1
+Differential Amplifiers (Contd.),g0jsHYwVypM,,2017-08-18T11:17:07Z,10,0,1022,0
+Analysis of the Series - Series and Other Feedback Configurations,0rlq4EREAJ0,,2017-08-18T11:24:34Z,8,0,1101,0
+Problem Session - 5 on Frequency Response of Small Signal Amplifiers,2F8b34gUH_w,,2017-08-18T11:15:45Z,10,0,1080,1
+Analysis of Feedback Amplifiers,Sr-Sm_d3oVE,,2017-08-18T11:23:52Z,15,2,1921,1
+FET Differential Amplifiers and Introduction to Power Amplifiers,h8t-A4eL8qs,,2017-08-18T11:19:42Z,7,0,1257,0
+Use of Current Mirrors in Differential Amplifiers,tqqFALmruhM,,2017-08-18T11:18:50Z,9,0,983,0
+Problem Session - 6 on Frequency Response of Small Signal Amplifiers (Contd.) and Differential Ampli,Cmt7WZzjhyU,,2017-08-18T11:18:22Z,6,1,723,0
+High Frequency Response of Small Signal Amplifiers (Contd.),GVIaz5Qwhgc,,2017-08-18T11:14:12Z,7,0,1240,1
+Low Frequency Response of Small Signal Amplifiers,xL8hQ1pHjC0,,2017-08-18T11:14:57Z,9,0,1238,0
+Discussion on Minor -1 Problems & Differential Amplifiers (Contd.),_zBwnk8TV1M,,2017-08-18T11:17:46Z,5,0,762,0
+High Frequency Response of Small Signal Amplifiers,iLCQUHJkFM8,,2017-08-18T11:13:43Z,11,1,1585,0
+Solutions to Minor -2 Exam & Concluding Discussions on Oscillators,_5wtdF4EntY,,2017-08-18T11:27:25Z,10,0,839,0
+Problem Session - 9 on Oscillators,9-HD0TGKJjI,,2017-08-18T11:28:07Z,3,1,851,0
+Widebanding Techniques : Introduction & Use of Inductors,awLLsIrqw34,,2017-08-18T11:29:33Z,6,0,831,2
+Widebanding By Using an Inductance,qHc2YEFtLwk,,2017-08-18T11:30:08Z,7,0,768,0
+Problem Session - 10 on Tuned Amplifiers,9jCcCZYyvM4,,2017-08-18T11:30:41Z,2,0,729,0
+Widebanding by Using Compound Devices,9j1UiHUAR8k,,2017-08-18T11:31:15Z,8,0,627,1
+Cascode Configuration as Wideband Amplifier,btphIK1d4Ro,,2017-08-18T11:31:44Z,5,0,738,0
+Widebanding by Local Feedback,kGnHRf-Nf5o,,2017-08-18T11:32:17Z,4,0,548,1
+Partial Response Signalling: Duobinary & Modified Duobinary Pulse Shaping,Y0a0dSih3po,,2017-08-18T12:22:44Z,13,0,1579,1
+Baseband Pulse Shaping ; Raised Cosine Family of Pulses,rB7GCxkLKnY,,2017-08-18T12:22:02Z,12,0,1895,0
+Baseband Pulse Shaping: Nyquist\'s First Criterion,EXX14__1EK8,,2017-08-18T12:21:15Z,16,0,2078,1
+Digital Representation of Analog Signals,4iLJZEMIib4,,2017-08-18T12:16:52Z,23,0,2488,1
+Spectral Properties of Line Codes: On-off / Polar / Bipolar Signalling,dk0JPef_crE,,2017-08-18T12:19:27Z,12,0,1534,0
+Spectral Properties of Line Codes: Duobinary Manchester & HDB Codes,t9E02trJCVo,,2017-08-18T12:20:22Z,9,0,1228,0
+Spectral Properties of Line Codes: General Relations,DhNE_eZPfSw,,2017-08-18T12:18:40Z,9,2,1795,0
+"Digital Representation of Analog Signals, Pulse Code Modulation",MZfyJ0rIMns,,2017-08-18T12:16:10Z,27,0,3078,0
+"Digital Representation of Analog Signals, Delta Modulation",NUv5cuVAQXg,,2017-08-18T12:15:36Z,42,0,5082,4
+Introduction to the Course,C3Vh2f_a4LI,,2017-08-18T12:15:02Z,51,1,11758,6
+Introduction to Line Coding,YWjTOS28Jrc,,2017-08-18T12:18:06Z,24,0,2322,0
+Quantization Noise in Delta Modulation (Contd.) & Time Division Multiplexing,lSWurFKyiKk,,2017-08-18T12:17:27Z,14,1,1843,0
+Tuned (or Narrowband) Amplifiers,uPvziWVaEDY,,2017-08-18T12:05:45Z,6,0,466,0
+Midband Analysis of FET Amplifiers,UU19M0VZLqM,,2017-08-18T11:48:37Z,8,1,2394,0
+Problem Session - 4 on Midband Analysis of Amplifiers,Xr3KPWxexsk,,2017-08-18T11:49:12Z,78,3,20673,3
+"Op - Amp Compensation , Slew Rate and Some Problems",9-qs1jWyPts,,2017-08-18T11:37:12Z,20,0,1906,1
+"Op- Amp offsets, Compensation & Slew Rate",HErfeCTTpJ8,,2017-08-18T11:36:33Z,25,0,2338,1
+Correction to Gilbert Cell Analysis and Operational Amplifier Imperfections,8o0hrWGNbWc,,2017-08-18T11:35:22Z,14,1,1752,0
+The Differential Pair and the Gilbert Cell as Wideband Amplifiers,_pO-Mm0Qi4s,,2017-08-18T11:34:25Z,8,0,851,0
+Widebanding by Overall Feedback and Dual Loop Feedback,B2OD7-HPeSQ,,2017-08-18T11:33:45Z,5,0,782,0
+Widebanding by Local Feedback and Feedback Cascades,r_FvyddhiPU,,2017-08-18T11:33:17Z,5,0,663,0
+Problem Session - 11 on Minor - 3 Problems & Widebanding by Compound Devices,E1YIcaYB2hE,,2017-08-18T11:32:50Z,4,0,632,0
+Precoding for Duobinary & Modified Duobinary Systems,nvyHFSgcE9I,,2017-08-18T12:23:32Z,6,0,1046,0
+Precoding for Modified Duobinary Systems (Contd.) & General Partial Response Signalling,uLrU2siGHFE,,2017-08-18T12:24:24Z,6,0,1138,0
+Binary Baseband Digital Modulation Techniques,Xc1maLvuKbs,,2017-08-18T12:25:07Z,12,1,1859,1
+Mâ€™ary Baseband Digital Modulation Techniques,gd8aHDr8h8k,,2017-08-18T12:25:46Z,9,0,1444,0
+Passband Digital Modulations - I : PSK & QPSK,4oQBM94-jGs,,2017-08-18T12:26:25Z,16,0,1919,1
+Passband Digital Modulation- III: Minimum Shift Keying (MSK),R4Ar9goLwss,,2017-08-18T12:27:52Z,16,1,2487,4
+Passband Digital Modulation- II : Offset QPSK,u0dP4127ECM,,2017-08-18T12:27:11Z,12,0,1891,0
+Passband Digital Modulations- IV : MSK (Cont.) : Passband Waveforms for Mâ€™ary Signalling,iANNkvI7Lbk,,2017-08-18T12:28:27Z,10,0,946,1
+Error Correcting Codes (Contd.),__w-EYfjSAo,,2017-08-18T12:41:30Z,39,0,11155,1
+"R.L.C. Components, Energy Considerations, Sources and Circuit Laws",HdmmYCTtjXY,,2017-08-22T07:25:07Z,28,1,2882,3
+Demodulation of DPSK & M\'ary Signals,IhTJ_RReWcQ,,2017-08-18T12:36:11Z,9,0,853,1
+Error Correcting Codes,MSXbmZk6IHI,,2017-08-18T12:40:55Z,9,1,1861,1
+Performance of Non Coherent FSK & Differential Phase Shift Keying,gP09GMjZ6q4,,2017-08-18T12:35:11Z,6,0,1031,2
+Performance Analysis of Binary Digital Modulations: Signal & Noise Statistics in Coherent & Noncoher,9l2JjbgjB7k,,2017-08-18T12:33:48Z,7,0,861,2
+Source Coding,X2YbhKs0mPk,,2017-08-18T12:38:47Z,9,0,1266,1
+Error Rates for Binary Signalling : Coherent Receivers,ckecZdgD_Xw,,2017-08-18T12:34:12Z,3,0,865,2
+Introduction to the Course and Basic Electrical Quantity,o56BWcHZteQ,,2017-08-22T07:24:41Z,72,4,8405,5
+Error Free Communication Over a Noisy Channel,raYZWVTlzRQ,,2017-08-18T12:39:29Z,10,0,1116,0
+"Introduction to Information Theory , Part -1",DcFckp0rJ_U,,2017-08-18T12:38:16Z,10,0,1362,1
+Demodulators for Binary Waveforms (Contd.) : Coherent & Noncoherent Receivers for Orthogonal Signall,fh4H1NMXN-E,,2017-08-18T12:32:47Z,5,0,878,0
+The Concept of Channel Capacity,l9crRK7l-90,,2017-08-18T12:54:10Z,10,0,1111,1
+Matched Filters & Coherent Demodulation - I,4DOfDWmiKV0,,2017-08-18T12:31:22Z,7,0,996,1
+Coherent Demodulation for Binary Wave Form,4fkeS70PwmI,,2017-08-18T12:32:02Z,8,0,913,1
+Performance of M\'ary Digital Modulations,_Jj40t3EaFc,,2017-08-18T12:37:16Z,4,0,841,1
+Performance of M\'ary Digital Modulations (Contd.),anGS2GaBX6Q,,2017-08-18T12:37:43Z,7,0,808,0
+Digital Modulation Part - II Matched Filters,BFL84OQhieQ,,2017-08-18T12:30:35Z,10,0,1087,1
+Baseband & Passband Digital Demodulations : General Issues & Concepts,EWdh6ymePWI,,2017-08-18T12:29:52Z,5,0,987,1
+Passband Modulations for Band Limited Channels,LFAgCqGU0C0,,2017-08-18T12:29:18Z,8,0,890,0
+"KCL, KVL & Network Analysis",fAp2vjJ1k_8,,2017-08-22T07:25:41Z,30,3,3128,0
+Networks Theorems ( Thevenin\'s/ Norton\'s ),fEX5kPrWxz0,,2017-08-22T07:26:10Z,30,0,2108,1
+Source Transformation; Super Position Theorem and Non- Linear One-Ports,xf5QDHjd55U,,2017-08-22T07:26:43Z,11,0,1088,1
+Signal Wave Forms,IcN9rLzhV3U,,2017-08-22T07:27:12Z,8,0,1147,0
+Operational Amplifiers & Diodes,Q2z3YQbbuWs,,2017-08-22T07:28:21Z,17,1,1696,1
+Periodic Wave Forms & Elements of Amplifiers,rSTDsX2xqrI,,2017-08-22T07:27:51Z,12,0,950,0
+Rectifiers and Power Supplies,SRPCg-nO_bA,,2017-08-22T07:28:49Z,13,2,1300,0
+Wave Shaping Circuits,kM5vHsRW1Ko,,2017-08-22T07:29:22Z,20,0,2369,1
+Power Amplifier,4U37aTpL7Qc,,2017-08-22T07:41:05Z,9,0,859,3
+Bipolar Junction Transistors,sxIxXkkhWBE,,2017-08-22T07:39:06Z,20,1,1290,1
+BJT Biasing & Introduction to Power Amplifiers,GDCFlXNO3kA,,2017-08-22T07:40:11Z,24,1,1789,2
+More About Diodes Including Zener Diodes,tJweRkiZhBU,,2017-08-22T07:38:40Z,11,0,711,1
+BJT Power Amplifiers,x3BNgQgdmfw,,2017-08-22T07:40:32Z,15,0,1266,2
+Semiconductor Physics (Contd.),G2g38V2deNQ,,2017-08-22T07:38:07Z,12,0,1079,1
+Transistors Characteristics & Biasing,M_Fti8OBTKo,,2017-08-22T07:39:37Z,12,0,994,0
+Semiconductor Physics,vkoxtMsui94,,2017-08-22T07:37:30Z,13,0,1039,0
+Two- Port Networks,kyxL3xaV8QU,,2017-08-22T07:36:59Z,6,0,789,0
+General Network Analysis,Np2jDio3mb8,,2017-08-22T07:36:33Z,11,2,750,0
+Resonance (Contd.),mcJ-gb5Zj5c,,2017-08-22T07:35:59Z,6,0,598,0
+Filter Circuits and Resonance,kAIg8NIGU-Y,,2017-08-22T07:35:19Z,18,0,1168,1
+Complete Response of Electrical Circuits,gi5UlTYzMi8,,2017-08-22T07:33:48Z,7,0,712,0
+AC Circuit Analysis,iYcgDF-8YI8,,2017-08-22T07:34:34Z,21,0,1442,1
+More About Phasors and Introduction to Complete Response,eb00WLdjggI,,2017-08-22T07:33:14Z,15,0,1699,0
+Natural Response and Poles and Zeros and Introduction to Forced Response,U2nGVHKigNg,,2017-08-22T07:31:39Z,7,0,784,0
+"Phasors and their Applications in AC Ckts, analysis",_YhDApR6Su4,,2017-08-22T07:32:31Z,10,0,847,0
+"Impedance Functions, Poles, Zeros and their Applications",3Yapc0R90A0,,2017-08-22T07:31:17Z,6,0,829,0
+Natural Response of 2nd Order Circuit (contd.),BhPKqhp_OdM,,2017-08-22T07:30:59Z,12,0,616,0
+Natural Response of 2nd Order Circuit,eWJdG3K7muA,,2017-08-22T07:30:46Z,5,1,704,0
+Natural Response (Contd.),X10uXwjeBHo,,2017-08-22T07:30:22Z,10,1,1056,0
+More on Wave Shaping Circuits and Introduction to Natural Response of Circuits,XorYn_oYRv0,,2017-08-22T07:29:54Z,11,1,1100,1
+Power Amplifiers (Contd.) and an Introduction to Small Signal Modelling of BJT,ROTz70akP3I,,2017-08-22T07:41:41Z,7,0,692,0
+Small Signal Model & Small Signal Amplifiers,IfEHyEFxGKc,,2017-08-22T07:42:08Z,10,0,764,2
+Small Signal Amplifiers (Contd.),mQtKSzOUVlQ,,2017-08-22T07:42:26Z,18,0,1245,1
+Small Signal Amplifier (Cont.),-ZwwiS05dg0,,2017-08-22T07:42:45Z,9,0,939,0
+Small Signal Amplifiers (Continued),t_SIY50MV7U,,2017-08-22T07:43:15Z,8,0,873,0
+Negative Feedback,OaiNeCkc-kI,,2017-08-22T07:43:48Z,9,0,1125,0
+Digital Circuits,Ckcbx9lsKpo,,2017-08-22T07:44:10Z,17,0,2272,1
+Digital Circuits (Contd.),wE8WI2ZOG3c,,2017-08-22T07:44:50Z,67,1,13775,4
+Teaching Aids in NPTEL Course Videos,ThFKc0w82go,"NPTEL (National Programme on Technology Enhanced Learning) is a joint initiative of the IITs and IISc. Through this initiative, we offer online courses and certification in various topics.",2017-07-31T10:42:01Z,94,6,9256,7
+Top Leaders in Industry/Education - About NPTEL,8u4krshqyOs,,2017-07-31T10:48:33Z,69,7,4708,2
+NPTEL Short Feedback,bjesmKR3gQU,,2017-06-30T04:25:26Z,363,17,23705,21
+NPTEL Highlights,SNbbQs-iwJE,,2017-06-28T11:42:42Z,556,106,581852,24
+"NPTEL : NOC Exam Feedback Coimbatore  - March 26, 2017",LGVeZx9vUTU,,2017-06-14T08:20:31Z,35,4,4790,0
+"NPTEL : NOC EXAM FEEDBACK PUDUCHERRY - March 26, 2017",pgloIyfu3XE,,2017-06-14T09:28:09Z,10,3,2183,0
+"NPTEL: NOC Exam Feedback Madurai April 23, 2017",bZ3ac79pNDs,,2017-06-14T07:59:46Z,55,3,6038,5
+"NPTEL : NOC Exam Feedback : CHENNAI April 23, 2017",FNKpu7u9a0A,,2017-05-02T08:58:10Z,67,4,7245,7
+Design of limit gauges,zmxjlFEcCUM,,2017-03-02T14:24:42Z,155,13,21455,5
+Metrology terminologies,jpHzjhYyKO4,,2017-03-02T12:47:11Z,206,10,30096,6
+Introduction to metrology,HpIEeBtJupY,,2017-03-02T12:26:41Z,610,32,104264,26
+Measurement errors,7VNyyInaVsU,,2017-03-02T12:58:31Z,81,4,16829,1
+"Linear measuring instruments – 2 (Combination set, Vernier calipers)",SBGacenZ_80,,2017-03-02T13:24:23Z,76,4,11650,3
+"Linear measuring instruments – 1 (Angle plate, steel rule, spring calipers)",u8UW9O1UHCw,,2017-03-02T13:16:35Z,60,0,11440,0
+"Linear measuring instruments – 4 (Micrometers – 2, Bore gauge)",E7KWQTQOV3M,,2017-03-02T13:36:48Z,74,3,11257,4
+"Linear measuring instruments – 3 (Height gauge, Micrometers – 1)",ioyRjm-dSuI,,2017-03-02T13:31:18Z,39,2,7945,2
+Manufacturing tolerances and fits,-_qz8_sbhwY,,2017-03-02T13:49:40Z,255,13,38916,8
+"Linear measuring instruments – 5 (Dial indicators, thickness gauges, depth gauges)",xPUjQAtre7Q,,2017-03-02T13:43:25Z,46,0,7321,2
+Terminologies of limits fits and tolerances,c8TKftViusQ,,2017-03-02T13:54:18Z,371,14,41012,8
+Numerical problems on fit and tolerances,uAntebtIgCY,,2017-03-02T13:58:56Z,703,42,84656,28
+Positional tolerances,MoIZaWBwUus,,2017-03-02T14:12:22Z,84,3,11893,3
+"Selection of fits, Geometrical tolerances",rbk28swIiHU,,2017-03-02T14:05:53Z,244,2,26965,7
+Limit gauging - 1,OcbkOvjZujU,,2017-03-02T14:14:31Z,90,3,15692,2
+Introduction to gears,n1EzCOnZn3s,,2017-03-02T15:24:22Z,60,3,7986,6
+Measurement of screw thread elements,xPGi2e-gOo8,,2017-03-02T15:10:59Z,99,2,14004,4
+Limit gauging - 2,fbk0_nPNUTE,,2017-03-02T14:21:14Z,32,1,7341,0
+Screw thread production and terminology,O7WvzU3FQ5c,,2017-03-02T15:07:38Z,95,7,15810,4
+Non-contact type surface finish measuring instruments,ksPSqMpKSpw,,2017-03-02T14:54:54Z,17,2,4735,2
+"Radius measurement,Contact angle measurement",3fRGpA8AF6E,,2017-03-02T15:59:14Z,13,0,2812,0
+Surface finish parameters,99zzBRKYLwQ,,2017-03-02T14:46:46Z,212,11,25475,6
+Stylus type surface finish measuring instruments,V1qrHvMs8tE,,2017-03-02T14:49:34Z,45,3,8311,2
+Angle measurement - 2,MXJtYL4xX9U,,2017-03-02T15:50:02Z,13,3,3870,0
+Angle measurement - 1,U_LMe40gxds,,2017-03-02T15:41:15Z,33,1,5020,0
+Basics of surface roughness,dzhh82H2Nuk,,2017-03-02T14:43:59Z,259,21,33926,17
+Perpendicularity measurement,kr_PnTQpxSw,,2017-03-02T14:35:24Z,20,3,5642,2
+"Measurement of straightness, flatness and squareness",CtGXjmqZqWc,,2017-03-02T14:27:47Z,207,33,33029,6
+Basics of interferometry,Qv5YzrqL6sU,,2017-03-02T16:09:15Z,96,8,14619,6
+Interferometers,Cyz00qLobK8,,2017-03-02T16:16:42Z,42,2,8686,1
+"mod10lec1-Introduction to comparators,Mechanical comparators",Hi7NUJdznc0,,2017-03-02T16:22:22Z,108,11,18109,0
+"mod10lec2-Electrical and electronic comparators,Optical comparators",2vgkxHe_24g,,2017-03-02T16:25:11Z,64,7,14152,2
+mod10lec3-Pneumatic comparators,TyM28gmhJcc,,2017-03-02T16:29:31Z,35,0,7260,1
+mod11lec2-Geometrical tests on pillar type drilling machine,4wnUT70oUFo,,2017-03-02T16:41:42Z,53,7,8239,2
+mod11lec1-Geometrical tests on lathe,FlJjWbU0NUI,,2017-03-02T16:37:58Z,117,4,15723,7
+mod12lec2-CMM probes and CMM software,-tLq1wXio0U,,2017-03-02T16:54:42Z,229,5,19221,3
+mod12lec1-Universal measuring machine (UMM) and Coordinate measuring machine (CMM),cjzSXPDBA_Q,,2017-03-02T16:44:40Z,74,6,10387,2
+mod12lec4-In-process gauging and control,3GU5iHwXV64,,2017-03-02T17:10:45Z,4,0,1680,0
+"mod12lec3-Feature measurement using CMM, Laser vision",oyhnglr_HiY,,2017-03-02T17:02:11Z,12,1,2326,0
+mod12lec5-Stage position metrology,QSxRmzIikSI,,2017-03-02T17:19:01Z,5,0,1654,0
+"mod12lec6-Micro and Nano stages, Nano technology instrumentation",TbYU8df53V4,,2017-03-02T17:29:04Z,4,1,1394,0
+mod12lec7-Optical system design,mErNZMsqwsM,,2017-03-02T17:39:05Z,8,0,1857,1
+"mod12lec8-Complex opto- mechanical assemblies,Metrology testing and certification services",uiVEkHs-yUw,,2017-03-02T17:48:18Z,36,0,5250,0
+Design of Risering System-4,XopQeDf2EG8,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:17:46Z,43,3,7840,5
+Evaporative Pattern Casting and Plaster Moulding,tDYF2Q1r78Q,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:56:14Z,25,1,4246,3
+Introduction,0iezQ4IeXsc,"Uploaded on Feb 15, 2017
+Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T09:26:46Z,203,6,20465,22
+Sand Casting Defects-1,2hJ2-OXMwCM,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:27:00Z,220,16,22300,16
+"Environment, Health and Safety Aspects",2nN2DEi8VkQ,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T11:06:49Z,104,3,27384,3
+Terminology & Tools of Sand Moulding,5AlHa3V0rFU,"Uploaded on Feb 15, 2017
+Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T09:38:45Z,79,3,7949,3
+"Copper, Zinc and Titanium Cast Alloys",5XM58cK8NBg,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:43:21Z,60,6,7097,7
+Continuous Casting Process,6WIABd84404,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:52:43Z,271,16,23537,15
+Moulding Sands Properties,8RUXvdsgsyg,"Uploaded on Feb 15, 2017
+Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T09:47:19Z,105,8,9607,10
+Design of Gating System-2,8_zfoGyH4w8,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:24:48Z,141,9,14082,19
+Solidification,8pGj_ETreqM,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:37:02Z,291,10,28263,13
+"Shakeout, Fettling and Finishing",9R19vNE1w2c,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T11:00:17Z,20,1,2837,1
+Design of Risering System-5,COjlVwYvb4s,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:21:09Z,26,0,3833,0
+Overview of different casting processes-2,CmbjOZxP3BM,"Uploaded on Feb 15, 2017
+Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T09:33:14Z,61,4,8009,5
+Moulding Sands and Design-1,DF-CBYioA_c,"Uploaded on Feb 15, 2017
+Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T09:41:51Z,66,4,8422,2
+Steps Involved in Making a Sand Casting,GGe8RhRTUQg,"Uploaded on Feb 15, 2017
+Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:00:27Z,107,3,8721,11
+Melting Furnaces and Practice,GUctNyh1FR0,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:30:49Z,343,11,23218,20
+Patterns and Allowances,H78qWl4sf54,"Uploaded on Feb 15, 2017
+Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T09:57:14Z,397,15,29634,27
+Cast Irons and Steels,He4bek-XcLc,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:39:06Z,490,25,36544,29
+"Inspection, Testing and Quality Control",Jfx0ITTPwfw,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T11:02:38Z,1143,60,102347,29
+Design of Risering System-2,MMhcyzd8Y3M,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:09:19Z,55,2,7618,6
+Design of Risering System-1,NDEC_sGRNaM,"Uploaded on Feb 15, 2017
+Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:05:07Z,182,5,18432,6
+Treatment of Molten Metal,OrwU2ehh3g4,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:32:56Z,81,2,5588,4
+Die Casting Process-I,P1G2EwbRnw0,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:44:41Z,433,21,38785,15
+Investment Casting Process-II,Sr7xZo0F86I,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:51:05Z,51,1,6067,1
+Centrifugal Casting Process,U81LJAdzFsY,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:54:38Z,239,16,19434,7
+Vacuum Sealed Moulding and Squeeze Casting,ZSie37pNqak,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:58:16Z,52,3,5430,3
+Investment Casting Process-I,ZqjBeZX0IBg,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:49:06Z,58,3,6648,3
+Overview of different casting processes-3,bHK6V1DVi_Y,"Uploaded on Feb 15, 2017
+Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T09:35:57Z,51,1,5589,5
+Sand Casting Defects-2,c0bEeWzUPQ8,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:29:07Z,87,5,9234,1
+Design of Gating System-1,few7fUuF0pE,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:22:57Z,340,17,31719,24
+Moulding Sand Properties Testing,gOms0cwsK3Y,"Uploaded on Feb 15, 2017
+Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T09:50:45Z,277,12,20520,12
+Fluidity of Molten Metal,kA0IKLbildg,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:34:53Z,65,2,5569,2
+Design of Risering System-3,oHEmKVsbO2E,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:14:31Z,27,0,4862,1
+Die Casting Process-II,p581wiEfLFI,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:47:10Z,54,1,5335,6
+Moulding Sands and Design-2,vMLApxkczlw,"Uploaded on Feb 15, 2017
+Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T09:44:30Z,46,0,4714,4
+Aluminum and Magnesium Cast Alloys,yVvYWLJqVig,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T10:41:09Z,206,14,18629,17
+Design Consideration and Economics,z-PvJ7Yk3oU,"Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T11:04:44Z,67,3,6960,2
+Cores & Core Sands,zolk3B4kYXI,"Uploaded on Feb 15, 2017
+Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T09:54:22Z,147,7,13782,8
+Overview of different casting processes-1,zvc5OoYPL7M,"Uploaded on Feb 15, 2017
+Lecture Series on Metal Casting by Dr. D. Benny Karunakar, Department of Mechanical and Industrial Engineering, IIT Roorkee. For more details on NPTEL visit http://nptel.iitm.ac.in",2017-02-15T09:30:39Z,144,4,16546,13
+ARICENT FEEDBACK 2016 DURING SPOC@IITMADRAS,CGyR7N0EskE,,2017-01-13T09:55:46Z,28,0,5106,3
+NPTEL Workshop Part 04,8IrMZnX3u2Y,,2016-12-29T08:05:55Z,10,0,2273,1
+NPTEL Workshop Part 03,LBYLMT6GJqU,,2016-12-29T07:52:22Z,9,2,1856,0
+NPTEL Workshop Part 02,TjQXD745-Tk,,2016-12-29T07:41:45Z,26,1,4171,3
+"NPTEL Workshop Part 01 December  19,2015",iTxYzn62lzM,,2016-12-29T07:26:31Z,12,1,2144,1
+"NPTEL Faculty Workshop - IIT Madras - 21 Dec, 2016",c0NgX5KCQWY,,2016-12-23T12:44:07Z,135,5,17812,14
+"NPTEL SPOC Workshop - IIT Madras - Dec 17, 2016",masb7g1QYos,,2016-12-23T09:32:44Z,42,6,4570,0
+NPTEL : NOC Exam Feedback : Compiled,o3YkqsLZ2qA,,2016-11-28T12:36:59Z,13,3,3611,1
+NPTEL : NOC Exam Feedback : DMI College of Engineering,DZYovUu6UL0,,2016-11-29T04:08:51Z,31,7,5335,4
+NPTEL : NOC Exam Feedback : Sanjay Runguta Group of Colleges,_WDwLwUPQRM,,2016-11-28T13:23:21Z,23,12,5072,1
+NPTEL : NOC Exam Feedback : Sanaka Educational Trust Group of Education,LAN3MKYwzoc,,2016-11-28T13:22:26Z,4,5,2170,1
+NPTEL : NOC Exam Feedback : Jawaharlal College of Engineering Kerala,EbEXjXZ81BI,,2016-11-28T12:42:54Z,7,4,3244,0
+3D beam element; plate element; imperfection sensitive structures; beams on elastic foundations; rin,2A3Tffp6TdQ,,2016-10-03T07:21:54Z,3,0,492,0
+FRF-s and damping models-1,2_oiU6_pj7c,,2016-10-03T07:03:04Z,3,0,1267,0
+Mathematical preliminaries and terminologies; Euler’s forward and backward difference methods.,2hojOlW1xik,,2016-10-03T07:06:05Z,5,1,931,0
+Dynamic analysis of stability and analysis of time varying systems,5PozPzaztCk,,2016-10-03T07:23:02Z,4,0,722,0
+FE modelling of planar structures (continued),7ke4DDumtm8,,2016-10-03T07:02:27Z,24,2,5351,0
+Plate bending elements (continued),96kUav0wK9w,,2016-10-03T07:13:52Z,7,1,801,0
+Material damping models. Dynamic stiffness and transfer matrices,9Yx6eS16EZo,,2016-10-03T07:04:18Z,3,0,892,0
+Equations of motion for continuous systems and Rayleigh’s quotient,BtyD2dBJF9Q,,2016-10-03T06:59:21Z,15,1,3187,1
+Rayleigh Ritz method and method of weighted residuals,CW1SiVvrVKY,,2016-10-03T06:59:59Z,9,0,2213,0
+FE modelling of vehicle structure interactions,CvusJu0V2KU,,2016-10-03T07:25:07Z,1,0,637,0
+Second order implicit methods,Gc6CbwlkD8k,,2016-10-03T07:07:17Z,7,0,926,0
+3D frames,Gw6b0tQlZwU,,2016-10-03T07:05:31Z,11,1,1160,0
+Inverse response sensitivity analysis (continued),JO-PFvqK0bw,,2016-10-03T07:26:49Z,4,0,797,0
+FRF-s and damping models-2,Jyy-dyTflD4,,2016-10-03T07:03:39Z,2,0,696,0
+FEM: motivations. Analysis of axially vibrating rods and Euler-Bernoulli beams,LOimI2jiGX4,,2016-10-03T07:00:37Z,9,0,1670,1
+Dynamic analysis of stability and analysis of time varying systems.,R7yKo0TzW6E,,2016-10-03T07:24:09Z,3,0,573,0
+Equations of motion using Hamilton’s principle,RRB83Z1zyCU,,2016-10-03T06:58:47Z,109,1,18343,5
+mod10lec40,RTPMZiB3q5g,,2016-10-03T07:29:39Z,15,0,3374,0
+Introduction (continued),RyybeP5G_Fo,,2016-10-03T07:17:39Z,5,0,653,0
+Plane stress models (continued),WGQZaBGpujE,,2016-10-03T07:10:46Z,27,2,2439,3
+mod10lec38,WQt4Kp1M5xQ,,2016-10-03T07:28:14Z,4,2,1612,2
+Introduction,Xlq-fSrq6JI,,2016-10-03T07:16:43Z,10,0,741,0
+Energy conservation. Nonlinear systems.,XrzP7qddoPo,,2016-10-03T07:07:52Z,4,0,560,0
+Axisymmetric models. Plate bending elements.,Y1TwWju33IU,,2016-10-03T07:12:46Z,4,0,826,0
+Beam elements. Reference systm. Assembly of matrices. Imposition of BCS. Final equation of motion.,YMEAVi6xIwM,,2016-10-03T07:01:13Z,8,0,1143,0
+Plate bending elements [continued],Yo6ixyxcfpU,,2016-10-03T07:15:47Z,2,0,493,1
+"Nonlinear dynamical systems, fixed points and bifurcations",c7mfGpciApo,,2016-10-03T07:18:41Z,9,0,1462,0
+mod10lec37,eOoj5_8-iVY,,2016-10-03T07:27:28Z,6,0,990,0
+FEM for stability analysis. Euler-Bernoulli beam and general formulations,fWOa8re0CLk,,2016-10-03T07:20:51Z,12,2,2421,0
+Substructuring schemes,gxL14_6oWEM,,2016-10-03T07:09:06Z,5,0,659,0
+Model reduction schemes,hxzY9QJ0TLQ,,2016-10-03T07:08:31Z,10,1,1282,0
+3d Solid element,jgf4qCUAPNw,,2016-10-03T07:11:46Z,5,0,533,0
+Twisting of circular bars and rectangular bars. Analysis of grids,knVTRzj4k3Y,,2016-10-03T07:04:56Z,4,0,985,0
+Energy methods in stability analysis,koyJnUB2qzM,,2016-10-03T07:19:46Z,6,0,649,0
+mod10lec39,nLcROi4xw2M,,2016-10-03T07:29:04Z,3,0,1454,0
+Plate bending elements (continued).,pZZm1ZxVoS4,,2016-10-03T07:14:54Z,3,0,605,0
+Forward and backward Euler method. Central difference method,q6fJA5OApdo,,2016-10-03T07:06:38Z,6,0,671,0
+Plane stress models,qzDrw8Gm2KQ,,2016-10-03T07:09:53Z,10,0,2124,0
+Inverse response sensitivity analysis,spsadW4p7xc,,2016-10-03T07:25:57Z,6,0,737,0
+FE modelling of planar structures,xfNcnKaCEmM,,2016-10-03T07:01:49Z,3,0,1035,0
+NPTEL : NOC Exam Feedback : Manakula Vinayagar Institute of Technology,CBnj1_i7YQ0,,2016-09-30T09:10:55Z,37,2,5657,2
+NPTEL : NOC Exam Feedback : Dhanalakshmi College of Engineering,zL17WmcGW_A,,2016-09-30T08:59:21Z,28,4,4991,1
+NPTEL : NOC Exam Feedback : Kathir College of Engineering,WXnNjBU7vVQ,,2016-09-30T09:06:39Z,11,0,1817,0
+NPTEL : NOC Exam Feedback : PSR College of Engineering,AKOMqsIa3yY,,2016-09-30T08:47:52Z,36,5,5238,1
+Mod-03 Lec-03 Introduction and Fundamental Concepts - III,eqpc_ayjjP4,,2016-09-28T05:01:27Z,414,18,76864,45
+Electronics   Nanoelectronics Devices and Materials mod12lec40,FGvNqdGXLuo,,2016-08-31T11:38:59Z,14,4,3402,3
+Electronics   Nanoelectronics Devices and Materials mod13lec41,DvDz7j6-7HM,,2016-08-31T11:39:48Z,10,0,2155,0
+Electronics   Nanoelectronics Devices and Materials mod11lec38,6Y_Lr1uUli0,,2016-08-31T11:37:27Z,9,3,1312,0
+Electronics   Nanoelectronics Devices and Materials mod11lec37,BzvCGzmbFA8,,2016-08-31T11:36:25Z,5,1,1268,1
+Electronics   Nanoelectronics Devices and Materials mod12lec39,4niUbiQb_Y4,,2016-08-31T11:38:15Z,12,0,1346,0
+Electronics   Nanoelectronics Devices and Materials mod11lec36,0_B6C9CBSsk,,2016-08-31T11:34:55Z,4,1,1578,0
+Electronics   Nanoelectronics Devices and Materials mod10lec35,nnq5asbB_Ow,,2016-08-31T11:34:15Z,20,1,2346,0
+Electronics   Nanoelectronics Devices and Materials mod10lec34,O_69szmgasI,,2016-08-31T11:33:40Z,4,0,917,0
+Electronics   Nanoelectronics Devices and Materials mod10lec33,Oq5TweDVyKQ,,2016-08-31T11:33:05Z,15,1,1253,0
+Electronics   Nanoelectronics Devices and Materials mod10lec32,YCyNUp5hnxQ,,2016-08-31T11:29:37Z,7,1,1565,0
+Introduction to Nanomaterials,tZjUIvwjKn4,,2016-08-31T11:29:02Z,15,0,1914,1
+Hetero-junctions and High Electron Mobility Transistors (HEMT),l7h-XyU0E_4,,2016-08-31T11:28:24Z,11,1,1240,0
+GaAs MESFETs: Enhancement and depletion types . Velocity Overshoot effcts in GaAs MESFETs,GFcC-FlCicQ,,2016-08-31T11:27:48Z,5,0,1195,0
+Compound semiconductors and hetero junction FETsfor high performance,PPhJfLF0nKM,,2016-08-31T11:27:10Z,5,0,836,0
+Germanium MOSFT technology and recent results on surface passivated Ge MOSFETS,PyHRtR4y6x0,,2016-08-31T11:26:33Z,2,0,695,0
+Germanium as an alternate to silicon for high performance MOSFETs and the challenges in Germanium Te,P80knT7Eq94,,2016-08-31T11:26:03Z,5,1,922,0
+Effect of Interface states and Fermi level pinning on MS contacts on Si and passivation techniques f,wb3wDTrr9dM,,2016-08-31T11:25:22Z,9,0,1310,0
+Rectifying and Ohmic contacts and challenges in MS unction source drain MOSFET Technology,KSbrjlFr9wc,,2016-08-31T11:24:46Z,2,0,927,2
+Need for MS contact Source/Drain Junction in Nano scale MOSFETs,y1Kx03evxPI,,2016-08-31T11:24:10Z,5,1,986,0
+"Sub-threshold Slope & SCE suppression in FD SOI MOSFET, Volume Inversion and Ultra thin (UTFD) SOI M",7-E1_n1OKY8,,2016-08-31T11:23:34Z,8,1,1509,1
+FD SOI MOSFET: Operation Modes and Threshold Voltages and Electric Fields,WkpcE2RwrZg,,2016-08-31T11:22:35Z,21,5,2596,0
+"SOI MOSFET structures, Partially Depleted (PD)and Fully Depleted (FD) SOIMOSFETs",d-IwsnAL1xk,,2016-08-31T11:21:41Z,35,2,3842,3
+SOI Technology and comparisons with Bulk Silicon CMOS technology,_h6CSuwWqYg,,2016-08-31T11:21:03Z,15,0,3265,1
+"Velocity Saturation, Ballistic transport, and Velocity Overshoot Effects and Injection Velocity",cf3GbcoABQE,,2016-08-31T11:20:25Z,12,0,1441,0
+Interface state density effects on “S”. Short Channel Effects (SCE) and Drain Induced Barrier Loweri,P_WAn0uZ70E,,2016-08-31T11:19:47Z,5,0,1306,0
+"MOSFET Analysis, sub-threshold swing “S”",2GUhefYmeX8,,2016-08-31T11:19:12Z,18,1,2431,0
+MOS Parameter Extraction from I-V Characteristics,EVYbvvgnLik,,2016-08-31T11:18:38Z,12,0,1909,0
+MOS Parameter Extraction from C-V Characteristics,q9hpHrvVCHY,,2016-08-31T11:17:58Z,19,0,1868,0
+Effect of non idealities on C-V,466WInixn9M,,2016-08-31T11:17:19Z,7,0,1624,0
+Ideal MOS C-V Characteristics,mwfVPt_XVeM,,2016-08-31T11:16:43Z,18,0,2226,1
+Industrial CMOS Technology,FdXam7fkXA0,,2016-08-31T11:16:09Z,4,1,1420,0
+Metal gate transistor,th-Bl_x_yjw,,2016-08-31T11:15:36Z,6,1,1506,0
+High-k gate dielectrics,0jOF9zHjHzE,,2016-08-31T11:15:01Z,13,0,2093,1
+Gate oxide scaling and reliability,BGa2qcK7-Go,,2016-08-31T11:14:26Z,12,1,2244,0
+CMOS Process Flow,NfBR6uVUvm0,,2016-08-31T11:13:46Z,11,0,2136,3
+Channel and Source/Drain Engineering,vyeoK05l8tY,,2016-08-31T11:13:11Z,19,0,2613,0
+Drain Induced Barrier Lowering,jSYRi32Im7k,,2016-08-31T11:12:34Z,32,0,3421,12
+Subthreshold Conduction,lIJj5JAqZ-c,,2016-08-31T11:11:57Z,22,0,4056,2
+Short Channel Effects,6Yxz4gJYDWw,,2016-08-31T11:11:19Z,28,1,5399,17
+CMOS Scaling Theory,LiQopuaJsV8,,2016-08-31T11:10:34Z,58,2,8551,16
+Introduction to Nanoelectronics,wdNFCWLuC10,,2016-08-31T11:09:52Z,128,6,21495,4
+Mod-13 Lec 33 Global Regular Functions on Projective Varieties are Simply the Constants,zn77pSkvi9s,,2016-08-26T10:45:26Z,14,0,1122,1
+Mod-13 Lec 34 The d-Uple Embedding and the Non-Intrinsic Nature  of the Homogeneous Coordinate Ring,zpKPp5ozAU0,,2016-08-26T10:50:22Z,13,0,2221,1
+Mod-15 Lec 39 Why Local Rings Provide Calculus Without Limits for Algebraic Geometry Pun Intended!,-03WiXf687k,,2016-08-26T11:16:09Z,21,1,1287,0
+Mod-14 Lec 36 The Importance of Local Rings,MEyPcwMBqqA,,2016-08-26T11:00:09Z,13,1,1350,2
+Mod-14 Lec 35 The Importance of Local Rings - A Morphism is an Isomorphism,eouz_gZF5SQ,,2016-08-26T10:55:53Z,10,0,979,0
+Mod-14 Lec 37 Geometric Meaning of Isomorphism of Local Rings,eueMaSU2oRo,,2016-08-26T11:04:46Z,7,0,1062,0
+Mod-15 Lec 42 Any Variety is a Smooth Hypersurface On an Open Dense Subset,iLhwIXxf7bY,,2016-08-26T11:30:17Z,12,0,1434,6
+Mod-12 Lec 31 The Field of Rational Functions or Function Field of a Variety,iYNMR0JthMA,,2016-08-26T10:35:18Z,20,0,1910,0
+Mod-15 Lec 41 Any Variety is a Smooth Manifold with or without Non-Smooth Boundary,si24lvd-f_M,,2016-08-26T11:26:19Z,8,2,1455,0
+"Mod-14 Lec 38 Local Ring Isomorphism,  Equals Function Field Isomorphism,  Equals Birationality",t5p7IF1S9mY,,2016-08-26T11:10:06Z,10,0,1382,0
+Mod-15 Lec 40 How Local Rings Detect Smoothness or Nonsingularity in Algebraic Geometry,wzpEO3tZJAE,,2016-08-26T11:21:12Z,14,0,1235,1
+Mod-12 Lec 32 Fields of Rational Functions or Function Fields of Affine and Projective Varieties,yLuTYv8S-UU,,2016-08-26T10:40:27Z,8,0,1092,1
+Mooc feedback,KgcAytRl_kU,,2016-08-24T10:36:46Z,15,0,1382,7
+Mod-11 Lec-30 The Formula for the Local Ring at a Point of a Projective Variety,cVB0QsFHhqM,,2016-08-10T10:43:49Z,22,2,2874,0
+Mod-11 Lec-29 The Birth of Local Rings in Geometry and in Algebra,7qNETTzVhNM,,2016-08-10T10:36:05Z,31,1,2882,1
+Mod-11 Lec-28 Doing Calculus Without Limits in Geometry,uVn5WAA8eQ8,,2016-08-10T10:31:10Z,29,1,2508,0
+Mod-10 Lec-27 Adding a Variable is Undone by Homogenous Localization,yjUh100FqpE,,2016-08-10T10:26:45Z,12,0,1206,0
+Mod-10 Lec-26 Translating Homogeneous Localisation into Geometry and Back,D_42A3RnRWI,,2016-08-10T10:22:05Z,12,2,1311,0
+Mod-10 Lec-25 Expanding the Category of Varieties,bjmk38mrBn8,,2016-08-10T10:17:10Z,15,0,1384,0
+Mod-09 Lec-23 Gluing (n+1) copies of Affine n-Space to Produce Projective n-space in Topology,AfQRHoPr2Fs,,2016-07-29T08:48:30Z,19,2,2385,2
+Mod-10 Lec-24 Translating Projective Geometry into Graded Rings and Homogeneous Ideals,cz8Tv6bTUGk,,2016-07-29T08:49:51Z,16,1,2285,0
+Mod-09 Lec-22 The Various Avatars of Projective n-space,VvIgEAyqsWA,,2016-07-29T08:47:40Z,18,0,1973,1
+Mod-05 Lec-11 Why Should We Study Affine Coordinate Rings of Functions on Affine Varieties ?,evfMfi-fe-c,,2016-07-25T11:48:23Z,32,1,3929,3
+Mod-04 Lec-10 Geometric Hypersurfaces are Precisely Algebraic Hypersurfaces,_t-GulwE0Ck,,2016-07-25T11:44:38Z,32,3,3135,3
+Mod-08 Lec-18 Translating Morphisms into Affines as k-Algebra maps,aSVXmbmxT4Q,,2016-07-25T11:42:48Z,16,1,1781,1
+"Mod-04 Lec-08 Topological Dimension, Krull Dimension and Heights of Prime Ideals",-LaawYwdQWw,,2016-07-25T11:35:56Z,45,0,4541,4
+Mod-04 Lec-09 The Ring of Polynomial Functions on an Affine Variety,b585mUCCq0k,,2016-07-25T11:41:16Z,33,2,4615,9
+Mod-05 Lec-12 Capturing an Affine Variety Topologically,_s9meZlVsEU,,2016-07-25T11:50:21Z,20,1,2153,1
+Mod-06 Lec-14 The Ring of Functions on a Basic Open Set in the Zariski Topology,eUA1Bh_JUsc,,2016-07-25T11:54:18Z,15,1,1938,1
+Mod-06 Lec-13 Analyzing Open Sets and Basic Open Sets for the Zariski Topology,lVCM0lmcK18,,2016-07-25T11:52:23Z,23,0,2202,1
+Mod-07 Lec-15 Quasi-Compactness in the Zariski Topology,ucDSP1uq2Ok,,2016-07-25T11:56:18Z,16,1,1970,2
+Mod-08 Lec-17 Characterizing Affine Varieties,jblh1O9g8Ko,,2016-07-25T12:00:56Z,22,0,1815,1
+Mod-07 Lec-16 What is a Global Regular Function on a Quasi-Affine Variety?,p0Yw9lK9Ufg,,2016-07-25T11:58:49Z,21,0,1852,2
+Mod-08 Lec-21 Automorphisms of Affine Spaces and of Polynomial Rings - The Jacobian Conjecture,MO16Q_6axVk,,2016-07-25T12:02:58Z,16,1,2969,4
+Mod-08 Lec-20 The Coordinate Ring of an Affine Variety,u2svkFbfNOs,,2016-07-26T12:09:49Z,17,0,1663,4
+Mod-08 Lec-19 Morphisms into an Affine Correspond to k-Algebra Homomorphisms,4ozDnMxA2z4,,2016-07-26T12:26:21Z,16,0,1671,2
+SPOC Workshop 02 07 2016,uTeiIq5_9V8,,2016-07-13T09:49:10Z,56,1,7263,4
+Mod-01 Lec-01  What is Algebraic Geometry?,-MASKnQriQo,"Basic Algebraic Geometry : Varieties, Morphisms, Local Rings, Function Fields and Nonsingularity by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-07-08T11:18:07Z,509,12,59338,42
+Mod-01 Lec-02 The Zariski Topology and Affine Space,ZFb5Zs3e46Q,"Basic Algebraic Geometry : Varieties, Morphisms, Local Rings, Function Fields and Nonsingularity by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-07-08T11:25:13Z,156,3,14337,17
+Mod-01 Lec-03 Going back and forth between subsets and ideals,DixwONL4mrQ,"Basic Algebraic Geometry : Varieties, Morphisms, Local Rings, Function Fields and Nonsingularity by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-07-08T11:26:41Z,77,3,7116,8
+Mod-02 Lec-04 Irreducibility in the Zariski Topology,0vwf7Rf_ELs,"Basic Algebraic Geometry : Varieties, Morphisms, Local Rings, Function Fields and Nonsingularity by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-07-08T11:28:07Z,65,1,5950,13
+Mod-02 Lec-05 Irreducible Closed Subsets Correspond to Ideals Whose Radicals are Prime,Z4WvQ152QP8,"Basic Algebraic Geometry : Varieties, Morphisms, Local Rings, Function Fields and Nonsingularity by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-07-11T06:47:49Z,50,1,4528,2
+Mod-03 Lec-06 Understanding the Zariski Topology on the Affine Line,PFHajnTjmv8,"Basic Algebraic Geometry : Varieties, Morphisms, Local Rings, Function Fields and Nonsingularity by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-07-11T07:11:24Z,50,0,4782,3
+Mod-03 Lec-07 The Noetherian Decomposition of Affine Algebraic Subsets Into Affine Varieties,ERHauUelUYU,"Basic Algebraic Geometry : Varieties, Morphisms, Local Rings, Function Fields and Nonsingularity by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-07-11T07:55:13Z,38,2,4182,9
+Mod-14 Lec-39 Local Analysis of Normality and the Zooming Process - Motivation for Zalcman\'s Lemma,aAaLGuyWVLM,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-07-02T12:55:47Z,8,0,1278,0
+Mod-14 Lec-40 Montel\'s Deep Theorem: The Fundamental Criterion for Normality,KoT6MRIySVw,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-07-02T12:57:12Z,12,0,1013,0
+Mod-14 Lec-42 Royden\'s Theorem on Normality Based On Growth Of Derivatives,6-Ke8JNWYIM,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-07-02T13:00:32Z,10,0,901,0
+Mod-14 Lec-41 Proofs of the Great and Little Picard Theorems,F3WgLD11Vgo,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-07-02T12:59:00Z,42,1,4582,2
+Mod-14 Lec-43 Schottky\'s Theorem: Uniform Boundedness from a Point to a Neighbourhood,3ojjm8CR4ag,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-07-02T13:02:00Z,11,1,1951,2
+Mod-10 Lec-30 Introduction to the Montel Theorem,XTqaLfgF6mM,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-16T04:50:41Z,11,2,2238,0
+Mod-11 Lec-32 Introduction to Marty's Theorem,Kqyjtr5BeLc,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-16T06:01:11Z,14,0,1039,0
+Mod-10 Lec-31 Completion of Proof of the Montel Theorem,lY8zZ4gn_sQ,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-16T05:37:37Z,11,0,1150,0
+Mod-11 Lec-33 Proof of one direction of Marty's Theorem,yZFn3rojyAA,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-16T06:02:24Z,15,0,1503,0
+Mod-12 Lec-35 Normal Convergence at Infinity and Hurwitz's Theorems,LWhsxc_p6i4,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-16T06:04:40Z,9,0,880,1
+Mod-11 Lec-34 Proof of the other direction of Marty's Theorem,cidyLfLQskY,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-16T06:03:36Z,6,0,748,0
+"Mod-12 Lec-36 Normal Sequential Compactness, Normal Uniform Boundedness",9cnKFrtWC6s,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-16T06:05:51Z,9,0,842,1
+Mod-13 Lec-37 Local Analysis of Normality and the Zooming Process - Motivation for Zalcman's Lemma,KpiOsYiWvOY,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-16T06:06:58Z,9,0,769,0
+Mod-13 Lec-38 Characterizing Normality at a Point by the Zooming Process,HnP7DK2TE7I,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-20T06:28:34Z,7,1,1128,0
+Mod-09 Lec-28 Proof of the Arzela-Ascoli Theorem for Functions,mCzEAHFooRo,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-13T12:25:16Z,37,0,4297,1
+Mod-09 Lec-27 Introduction to the Arzela-Ascoli Theorem,EJoVcDiH6xQ,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-13T12:24:05Z,32,1,2571,2
+Mod-09 Lec-26 Topological Preliminaries: Translating Compactness into Boundedness,MUJDN3mJkLY,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-13T12:22:04Z,10,3,980,0
+Mod-09 Lec-29 Proof of the Arzela-Ascoli Theorem for Functions,uH_lsOWFGdA,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-13T12:26:37Z,20,3,2400,1
+Mod-01 Lec-19 Fokker-Planck equations (Part 3),Be7lHQ90hFM,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:19:41Z,14,0,2569,0
+Mod-01 Lec-18 Fokker-Planck equations (Part 2),d7gzALqU95Y,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:17:15Z,20,1,3267,1
+Mod-01 Lec-17 Fokker-Planck equations (Part 1),o5iwZpvtpiE,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:15:05Z,89,3,12002,3
+Mod-01 Lec-16 The dynamic mobility,qV25XtQ1Ivc,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:12:52Z,10,1,2024,0
+Mod-01 Lec-14 Linear response theory (Part 8),Vnw5ENxCp7Y,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:08:26Z,10,0,1817,1
+Mod-01 Lec-15 Linear response theory (Part 9),Yg-5OVG5Mcw,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:10:25Z,6,0,1804,1
+Mod-01 Lec-12 Linear response theory (Part 7),Cokmqm96DIs,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:04:19Z,8,1,1954,1
+Mod-01 Lec-13 Quiz 1 - Questions and answers,Dw2hcTtrVuQ,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:06:21Z,11,0,1789,1
+Mod-01 Lec-26 The Boltzmann equation for a dilute gas (Part 4),cSBwopamRMM,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:36:21Z,23,0,2908,0
+Mod-01 Lec-11 Linear response (Part 6),4z5gdFntl_Y,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:02:19Z,10,0,2305,0
+Mod-01 Lec-25 The Boltzmann equation for a dilute gas (Part 3),kmY8lecGJq8,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:34:08Z,21,1,2647,0
+Mod-01 Lec-10 Linear response (Part 5),1ERJq_CpYQE,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:00:14Z,16,0,2314,0
+Mod-01 Lec-24 The Boltzmann equation for a dilute gas (Part 2),eQ2yXWkKks0,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:31:47Z,32,1,4212,0
+Mod-01 Lec-23 The Boltzmann equation for a dilute gas (Part 1),hJt9VWTSSyM,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:29:22Z,154,3,15944,6
+Mod-01 Lec-22 Diffusion in a magnetic field,mgyJnMhFxns,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:27:07Z,13,0,1659,1
+Mod-01 Lec-09 Linear response(Part 4),yE3ZrcD6is4,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T14:58:06Z,21,0,2748,2
+Mod-01 Lec-07 Linear response theory (Part 2),6MwuElZDFpQ,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T14:53:47Z,41,0,5435,4
+Mod-01 Lec-20 The generalized Langevin equation (Part 1),6tmby1Dv4aU,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:22:23Z,33,0,4400,0
+Mod-01 Lec-21 The generalized Langevin equation (Part 2),CI7blNtcqME,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:24:50Z,15,0,1430,0
+Mod-01 Lec-08 Linear response (Part 3),grerei081MA,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T14:55:57Z,26,1,3702,1
+Mod-01 Lec-27 The Boltzmann equation for a dilute gas (Part 5),rWztVWNVeeg,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T15:38:51Z,9,0,1605,0
+Mod-01 Lec-29 Critical phenomena (Part 1),1XBKV1pU-mA,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T16:45:38Z,166,3,13679,9
+Mod-01 Lec-28 Quiz 2 - Questions and answers,s0-Oyj7rhuc,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T16:44:03Z,7,0,901,0
+Mod-01 Lec-30 Critical phenomena (Part 2),9R0tR6DC6Z0,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T16:47:24Z,37,0,4383,1
+LectureMod-01 Lec-31 Critical phenomena (Part 3),hLoneUTGi28,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T16:49:05Z,38,2,3603,1
+Mod-01 Lec-32 Critical phenomena (Part 4),83AmY13yvWY,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T16:50:51Z,31,1,3033,0
+Mod-01 Lec-33 Critical phenomena (Part 5),RFKb4uJj4LE,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T16:52:25Z,25,0,2626,2
+Mod-01 Lec-34 Critical phenomena (Part 6),QFKeDcy_z8w,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T16:54:06Z,16,1,2215,1
+Mod-01 Lec-35 Critical phenomena (Part 7),SL3jyu_FFMI,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T16:55:30Z,12,0,1882,0
+Mod-01 Lec-36 The Wiener process (standard Brownian motion),tdgnWgTfZnQ,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T16:56:53Z,90,2,12632,5
+Mod-01 Lec-01 Recapitulation of equilibrium statistical mechanics,SjTfNFso4mE,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T13:55:06Z,342,6,42964,25
+Mod-01 Lec-03 The Langevin model (Part 2),IjCjpoGZG78,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T14:45:05Z,77,0,10530,9
+Mod-01 Lec-02 The Langevin model (Part 1),kkqTPl0S4iU,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T14:42:50Z,177,3,20160,16
+Mod-01 Lec-05 The Langevin model (Part 4),9A1vTwd4LO4,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T14:49:35Z,28,2,4468,4
+Mod-01 Lec-04 The Langevin model (Part 3),RHQB9W5Mxiw,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T14:47:09Z,44,0,6531,7
+Mod-01 Lec-06 Linear response theory (Part 1),iAhb8CeKwnc,"Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan, Department of Physics, IIT Madras.For more details on NPTEL visit http //nptel.ac.in",2016-06-08T14:51:37Z,90,0,10354,6
+Mod-07 Lec-22 Hurwitz's Theorem for Normal Limits of Meromorphic Functions in the Spherical Metric,5Iy91g5luaY,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-07T06:29:02Z,13,0,1314,1
+Mod-08 Lec-24 Defining the Spherical Derivative of a Meromorphic Function,Ut5wB8r62yU,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-07T07:46:18Z,6,0,863,0
+Mod-08 Lec-23 What could the Derivative of a Meromorphic Function,xmcXV_b_H7c,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-07T07:45:01Z,6,0,728,0
+Mod-08 Lec-25 Well-definedness of the Spherical Derivative of a Meromorphic Function,BhPSj0_5gX8,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-07T07:47:13Z,4,0,686,0
+Mod-09 Lec-42 Mixture Fraction Formulation 2,3gKFmPkB2fw,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:44:48Z,6,0,936,0
+Mod-10 Lec-43 Droplet Burning 1,O1tsGn1P7zI,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:43:12Z,13,1,1396,0
+Mod-10 Lec-45 Spray Combustion 1,yUXnOcjltNE,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:41:38Z,8,0,1539,0
+Mod-10 Lec-46 Spray Combustion 2,9Lyq8ZGZF_o,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:40:10Z,2,0,591,0
+Mod-11 Lec-47 Turbulent Combustion 1,TG8jMUA6w8U,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:38:35Z,8,1,1839,0
+Mod-11 Lec-48 Turbulent Combustion 2,tMny1GeAjqM,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:36:48Z,6,0,959,0
+Mod-08 Lec-39 Burke-Schumann Problem 3,QPzMI1DZYhQ,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:49:16Z,4,1,650,0
+Mod-13 Lec-50 Detonations,WVX-CM_lKfE,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:33:39Z,6,0,996,0
+Mod-12 Lec-49 Combustion Instabilities,Zyts0-6kL5Q,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:35:12Z,26,1,2505,0
+Mod-13 Lec-51 Detonation Wave - ZND Structure,7acxarrR1Og,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:32:49Z,23,0,2481,0
+Mod-09 Lec-41 Mixture Fraction Formulation 1,Dk7DrF5zIKk,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:46:17Z,15,3,1868,0
+Mod-09 Lec-40 Flame Structure,bhHDEDkzTmA,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:47:40Z,15,3,1429,1
+Mod-08 Lec-38 Burke-Schumann Problem 2,VNhRS9Z6f5c,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:50:53Z,8,1,703,0
+Mod-08 Lec-37 Burke-Schumann Problem 1,0yYdkjcODP0,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:52:23Z,10,1,1257,1
+Mod-07 Lec-36 Ignition,_avY_7nZV8I,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:54:01Z,5,0,859,0
+Mod-07 Lec-33 Bunsen Burner 2,NYOTr9baG90,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:56:48Z,7,0,818,0
+Mod-07 Lec-35 Flame Stabilisation 2,ujzJQC-RtH0,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:55:34Z,5,0,724,0
+"Mod-07 Lec-31 Flame Speed Dependencies, G-Equation",TTTPjx2EQ4Q,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:00:07Z,16,1,1978,0
+Mod-07 Lec-32 Bunsen Burner 1,pf7_yZAy6cI,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T12:58:30Z,6,0,1096,0
+Mod-07 Lec-29 Laminar Premixed Flames - Rigorous Analysis 1,4k4kZDSlA2k,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:01:41Z,6,0,1236,0
+Mod-07 Lec-28 Laminar Premixed Flames - Corrections,gS1tm5zdQX8,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:03:14Z,11,0,1509,0
+"Mod-02 Lec-07 Equilibrium Reactions, Global Kinetics, Order of Reaction",B9cgMTGhmPE,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:35:50Z,18,1,2118,0
+"Mod-02 Lec-08 Reduced Chemistry, Steady State Approximation",AIL-RQR_GUU,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:34:18Z,8,0,2223,1
+"Mod-02 Lec-09 Steady State Approximation, Partial Equilibrium Approximation",i9aezPyrmxs,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:32:39Z,8,0,2990,3
+"Mod-02 Lec-10 Partial Equilibrium Approximation, Chemical Explosions",-VzT9QeXvBM,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:31:05Z,10,0,1632,0
+Mod-02 Lec-11 Combining Chemical and Thermal Processes 1,5VV7jvU0tVA,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:29:27Z,7,0,1374,0
+Mod-02 Lec-13 Combining Chemical and Thermal Processes 3,EmfljwJWrc4,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:26:20Z,6,0,901,0
+Mod-02 Lec-12 Combining Chemical and Thermal Processes 2,IhYDz-5tIPA,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:27:56Z,5,0,1019,0
+"Mod-03 Lec-15 Mass and Molar Diffusion, Fick's Law",Cct98LrsOtk,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:23:07Z,17,3,2616,2
+Mod-02 Lec-14 Combining Chemical and Thermal Processes 4,Uzi7f_IJ-zU,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:24:41Z,4,0,902,0
+Mod-08 Lec-16 Conservation Equations for Multi-Component Mixtures,-EAUXcHcKNw,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:21:33Z,6,0,1665,0
+Mod-08 Lec-17 Multi-Component Diffusion Equation,SOuP1jEXktQ,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:20:27Z,15,1,2641,0
+Mod-08 Lec-18 Multi-Component Momentum Equation,AFuYvlkMWJo,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:18:48Z,9,0,1007,0
+Mod-08 Lec-19 Energy Equation,BJZ2Xvtbu2c,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:17:27Z,7,0,1097,0
+Mod-05 Lec-21 Schvab-Zeldovich Formulation 1,nBjx7AF4deg,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:14:05Z,11,0,1779,2
+Mod-08 Lec-20 One Dimensional Steady Flow,tuzvfya5Mhs,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:15:52Z,8,0,1531,0
+Mod-05 Lec-22 Schvab-Zeldovich Formulation 2,Q598QkWeNks,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:12:41Z,5,0,953,0
+Mod-06 Lec-23 Rankine-Hugoniot Relations 1,SZXLu7AyBGg,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:11:04Z,33,0,4268,0
+Mod-06 Lec-24 Rankine-Hugoniot Relations 2,R_e6AYxPv5o,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:09:27Z,18,0,1726,1
+Mod-06 Lec-25 Rankine-Hugoniot Relations 3,TVVwiyRvXR8,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:07:47Z,5,0,943,0
+Mod-07 Lec-27 Laminar Premixed Flames,0Y0ssPcX-gw,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:04:31Z,32,0,5053,1
+"Mod-06 Lec-26 Velocity, Temperature and Entropy Variation along Hugoniot Curve",2Ml2gzk7ik4,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:06:10Z,8,0,872,1
+Mod-02 Lec-06 Chemical Kinetics 2,G-zq-4uS5iA,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:37:27Z,19,0,4151,1
+"Mod-01 Lec-04 Dissociation of Products, Role of Pressure",cSyA6cVBeD0,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:40:39Z,10,2,3544,1
+"Mod-01 Lec-05 Numerical Calculation of Adiabatic Flame Temperature, Chemical Kinetics 1",hj8EcI8xeCE,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:39:02Z,12,2,3659,1
+Mod-01 Lec-03 Sensible Enthalpy and Adiabatic Flame Temperature,rUBXCn9TSas,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:42:14Z,30,2,5710,6
+"Mod-01 Lec-02 Chemical Reactions, Heats of Reaction and Formation",83ZF_MRgjAA,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:43:54Z,51,2,7107,3
+Mod-01 Lec-01 Introduction,xigbLAwud60,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-20T13:45:32Z,158,2,23633,8
+Mod-10 Lec-44 Droplet Burning 2,0suN-mwVz78,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-28T06:17:50Z,4,0,670,0
+Mod-07 Lec-34 Flame Stabilisation 1,MBH1J7zfF2c,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-28T06:19:07Z,27,2,2788,3
+Mod-07 Lec-30 Laminar Premixed Flames - Rigorous Analysis 2,99zqbOmX1Y0,"Combustion by Prof. S.R. Chakravarthy, Department of Aerospace Engineering, IIT Madras. For more details on NPTEL visit http://nptel.iitm.ac.in",2016-05-28T06:20:35Z,7,0,820,0
+Watershed Management & Stakeholder Analysis,elIvGOMtWpY,"Watershed Management by Dr. T.I. Eldho,Department of Civil Engineering,IIT Bombay.For more details on NPTEL visit http://nptel.ac.in",2016-06-03T08:06:03Z,22,1,3610,3
+Watershed Modeling,vX9bhAUkd4M,"Watershed Management by Dr. T.I. Eldho,Department of Civil Engineering,IIT Bombay.For more details on NPTEL visit http://nptel.ac.in",2016-06-03T08:07:32Z,19,0,3272,1
+Introduction to Watershed Management,wkPu4LwRKro,"Watershed Management by Dr. T.I. Eldho,Department of Civil Engineering,IIT Bombay.For more details on NPTEL visit http://nptel.ac.in",2016-06-03T08:10:20Z,140,8,25431,13
+Mod-05 Lec-15 The Ubiquity of Meromorphic Functions,fur3O2iU9qM,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-25T10:58:16Z,11,0,1056,0
+Mod-05 Lec-14 Meromorphic Functions on the Extended Complex Plane,-dVRXItMwqg,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-25T10:59:42Z,39,3,4320,5
+"Mod-06 Lec-17 Why Normal Convergence, but Not Globally Uniform Convergence,",RChByQEnVvM,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-28T09:48:22Z,9,0,941,0
+Mod-07 Lec-21 Completion of Proof of Hurwitz\'s Theorem for Normal Limits of Analytic Functions,2Myn4Ur5mXE,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-01T12:57:17Z,9,1,1454,0
+Mod-05 Lec-16 Continuity of Meromorphic Functions at Poles and Topologies,dnWmUzqPOlc,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-28T09:49:30Z,8,0,976,0
+Mod-06 Lec-19 The Invariance Under Inversion of the Spherical Metric on the Extended Complex Plane,Q6lr-rphYC8,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-01T12:58:17Z,9,1,810,3
+"Mod-06 Lec-18 Measuring Distances to Infinity, the Function Infinity and Normal Convergence",hnm3bBdB8s4,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-01T12:59:32Z,6,0,639,0
+Mod-07 Lec-20 Introduction to Hurwitz\'s Theorem for Normal Convergence of Holomorphic Functions,meczucHVALQ,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-06-02T08:52:58Z,20,1,1755,0
+Mod-10 Lec-44 Analogies in Turbulent Convective Heat Transfer - Part 1,UkUzIekfMQM,,2016-05-30T11:00:56Z,11,0,1921,0
+Mod-09 Lec-43 Analogies in Turbulent Convective Heat Transfer - Part 1,1Jyx4hlrrsE,"Convective Heat Transfer by Dr. Arvind Pattamatta & Prof. Ajit K. Kolar,Department of Mechanical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-30T11:02:06Z,12,0,1754,1
+Mod-08 Lec-42 Turbulent Convective Heat Transfer:  RANS Equations - Part 2,6330vQYqeXs,"Convective Heat Transfer by Dr. Arvind Pattamatta & Prof. Ajit K. Kolar,Department of Mechanical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-30T11:03:22Z,20,0,2228,0
+Mod-07 Lec-41 Turbulent Convective Heat Transfer: RANS Equations - Part 1,C_KJdfoZuag,"Convective Heat Transfer by Dr. Arvind Pattamatta & Prof. Ajit K. Kolar,Department of Mechanical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-30T11:04:41Z,25,3,3367,0
+Mod-06 Lec-40 Natural Convection in Other Configurations,vKfPUnhOjw0,"Convective Heat Transfer by Dr. Arvind Pattamatta & Prof. Ajit K. Kolar,Department of Mechanical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-30T11:05:58Z,9,0,1659,0
+Mod-05 Lec-39 Approximate Method in Natural Convection Heat Transfer,Um51Y7iXRjo,"Convective Heat Transfer by Dr. Arvind Pattamatta & Prof. Ajit K. Kolar,Department of Mechanical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-30T11:07:12Z,13,2,2757,1
+Mod-04 Lec-38 Similarity Solution in Natural Convection for Vertical isoflux Plate,vERbFzhT9P0,"Convective Heat Transfer by Dr. Arvind Pattamatta & Prof. Ajit K. Kolar,Department of Mechanical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-30T11:08:22Z,17,1,2207,3
+Mod-03 Lec-37 Similarity Solution in Natural Convection for Vertical isothermal Plate - Part 2,xHGhARVYbzI,"Convective Heat Transfer by Dr. Arvind Pattamatta & Prof. Ajit K. Kolar,Department of Mechanical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-30T11:09:34Z,18,1,2999,0
+Mod-01 Lec-35 Introduction to Natural Convection Heat Transfer,3Iot96f1hsc,"Convective Heat Transfer by Dr. Arvind Pattamatta & Prof. Ajit K. Kolar,Department of Mechanical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-30T11:11:58Z,327,8,33190,6
+Mod-02 Lec-36 Similarity Solution in Natural Convection for Vertical isothermal Plate - Part 1,XEKc7-KKBwc,"Convective Heat Transfer by Dr. Arvind Pattamatta & Prof. Ajit K. Kolar,Department of Mechanical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-30T11:10:46Z,40,0,6057,1
+Mod-05 Lec-13 Infinity as an Essential Singularity and Transcendental Entire Functions,eHvf2f_LUto,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-23T06:28:14Z,40,4,4411,1
+Mod-04 Lec-12 Proofs of Two Avatars of the Residue Theorem  for the Extended Complex Plane,9ARWUqj4Xqc,"Advanced Complex Analysis - Part 2 by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-23T06:29:16Z,9,2,1516,0
+Mod-01 Lec-42 Contd. (Kunii Levenspiel Model),C3i5o-Epepg,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:03:06Z,24,0,2685,0
+Mod-01 Lec-41 Contd. (Davidson Harrison model and Kunii Levenspiel model),xy7Gy8KmYTY,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:05:11Z,17,0,2633,0
+Mod-01 Lec-09 Shrinking core model contd. for type D reactions Contd.,IuUsF0y9x3Q,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T08:59:12Z,11,0,1978,3
+Mod-01 Lec-43 Slurry Reactor Design,QzNMLPg-Y8Q,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:00:11Z,40,1,4425,3
+Mod-01 Lec-39 Fluidized Bed Reactor Design Part IV,QZwBHhfBE9w,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:07:56Z,25,1,3938,1
+Mod-01 Lec-40 Contd. (Fluidized bed reactor Models),n0o5z48QSQU,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:06:29Z,20,0,2951,0
+Mod-01 Lec-37 Fluidized Bed Reactor Design Part II,LViixdtL0BQ,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:11:13Z,76,2,10341,1
+Mod-01 Lec-38 Fluidized Bed Reactor Design Part III,SbxS_Mx4w_4,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:09:22Z,27,0,4877,2
+Mod-01 Lec-35 Problem solving session,A79wdnC5FKY,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:14:23Z,10,0,1509,1
+Mod-01 Lec-36 Fluidized Bed Reactor Design Part I,vpvb6JQWy44,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:12:36Z,140,5,16514,5
+Mod-01 Lec-34 Conservative Equations for Packed bed Reactor design,0uRBCamm8mQ,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:15:41Z,11,0,1464,0
+Mod-01 Lec-30 Packed (fixed) bed catalytic reactor design,F5067KEk4TE,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:17:46Z,109,6,12886,4
+Mod-01 Lec-33 Design equations for Packed bed reactor design,IFGKamoDXWw,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:16:40Z,25,0,4962,0
+Mod-01 Lec-12 Design of non-catalytic gas solid reactors Contd..,1lZHO3Sq1jI,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:47:40Z,14,0,1576,2
+"Mod-01 Lec-13 Design equation for MF of solids, uniform gas composition, const. single particle size",yWUk1NI_Q_g,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:46:00Z,8,0,1377,1
+"Mod-01 Lec-14 Design equation for MF of solids, mixture of particles for different size",caoK6n2yKZ4,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:44:42Z,4,0,1090,1
+Mod-01 Lec-15 Design equation for MF of solids with elutriation,drt3AtQPQmE,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:43:30Z,10,0,1351,0
+Mod-01 Lec-16 General Performance equation for non-catalytic gas solid reactions,EvCEZbzePjk,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:41:41Z,8,0,1319,2
+Mod-01 Lec-18 LHHW Kinetic model contd. Part I,Fn0jieDt6xs,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:38:40Z,54,0,5798,3
+Mod-01 Lec-17 Catalytic reactions (LHHW Kinetic model),INcmRk6_Ha8,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:40:08Z,83,4,13305,6
+Mod-01 Lec-19 LHHW Kinetic model contd. Part II,7NLnHDGWzdM,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:37:10Z,26,0,2764,0
+Mod-01 Lec-21 Inter and Intraphase effectiveness fator,PZSWVMoQHOI,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:34:43Z,20,1,2081,1
+Mod-01 Lec-22 Interface effectiveness factor & Generalized nonisothermal effectiveness,g3quE1i7Qa4,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:33:16Z,16,0,1748,1
+Mod-01 Lec-20 Industrially important catalytic reaction models,kdkCQMzV8nQ,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:35:40Z,23,0,1963,1
+Mod-01 Lec-23 Generalized nonisothermal effectiveness factor for external mass transfer step contd.,J8mA0Z0c6qY,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:31:36Z,8,1,1140,0
+Mod-01 Lec-24 Mass transfer correlations for various reactors,QtBdAD-UMs4,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:30:19Z,13,1,1708,0
+Mod-01 Lec-26 Isothermal intraphase effectiveness factor Part II,5mcc9unfgAI,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:27:33Z,12,0,1432,0
+Mod-01 Lec-25 Isothermal intraphase effectiveness factor Part I,meUvDI-BmMA,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:29:01Z,27,0,2398,0
+Mod-01 Lec-27 Non-isothermal intraphase effectiveness factor,6ea1mHAW2UQ,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:25:40Z,15,0,1111,0
+Mod-01 Lec-28 Inter & Intraphase effectiveness factor contd.,sczHPJxmv3s,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:24:17Z,9,0,861,0
+Mod-01 Lec-29 Inter & Intraphase Mass transfer,PS3Gkw_fSZM,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:22:47Z,13,0,1281,0
+Mod-01 Lec-31 Graphical design of Fixed bed reactors,rpBCwi0H9-o,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:20:50Z,28,0,3965,2
+Mod-01 Lec-32 Packed Bed Design Contd.,HtipSHgiJOg,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:19:06Z,20,0,2757,0
+"Mod-01 Lec-10 Reactors, Homogeneous reaction model, Design of non-catalytic gas solid reactors",aIw5KosDmZQ,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:50:22Z,16,1,2851,1
+Mod-01 Lec-11 Design of non-catalytic gas solid reactors Contd.,ujdSZt5WYeQ,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:49:06Z,15,0,2191,2
+Mod-01 Lec-08 Shrinking core model contd. for type D reactions,FIv97m7V5gs,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:52:11Z,12,0,2082,2
+Mod-01 Lec-07 Contd. & Proof of  Pseudo steady state assumption,ZnFAA51MiT8,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:53:14Z,23,0,2796,0
+Mod-01 Lec-06 Shrinking Core Model Contd..,jq2QvdoXKkE,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:54:48Z,32,0,4911,4
+Mod-01 Lec-05 Shrinking Core Model Contd.,zKTLhd36SSA,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:56:28Z,53,2,7482,0
+Mod-01 Lec-04 Basics of Kinetics of type A & B reactions,iBznk9DtV68,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:57:36Z,38,1,5037,2
+Mod-01 Lec-03 Heterogeneous rate of reactions and different types of kinetic models,lBcGjg3m_Ho,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T09:59:17Z,46,2,7294,1
+Mod-01 Lec-01 Introduction to Kinetics (Gas solid non-catalytic reaction),gMOxErho7Q0,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T10:02:42Z,139,2,25307,12
+Mod-01 Lec-02 Intro to Kinetics contd. for catalytic reactions in different reactors,sMoFGplQ8nM,"Chemical Reaction Engineering 2 (Heterogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-17T10:01:05Z,32,0,6888,3
+Mod-01 Lec-29 Recycle Reactors,7bGYaynjaXM,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T03:54:05Z,128,5,17281,8
+Mod-01 Lec-32 Multiple Reactions Part I,AHeJUnZeUUg,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T03:50:26Z,92,2,12296,6
+Mod-01 Lec-31 Recycle Reactors (Autocatalytic reactions) Part II,R0PbwKVJp9s,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T03:51:48Z,55,0,7870,3
+Mod-01 Lec-30 Recycle Reactors (Autocatalytic reactions) Part I,pm0jY4GztZs,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T03:52:44Z,73,1,10449,1
+Mod-01 Lec-27 PFR and MFR in series.,CeU2Ld9Pmtg,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T03:57:10Z,107,1,13426,4
+Mod-01 Lec-26 Reactor Design for MFR and Combination of reactors.,P_0jYWVErQ0,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T03:58:45Z,73,1,10113,7
+Mod-01 Lec-28 Unsteady state MFR and PFR,T9FB53UOi2I,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T03:55:17Z,70,0,10759,3
+Mod-01 Lec-24 Gas Phase Homogeneous reactions,Uzytw3e1Ia4,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:03:04Z,45,4,6677,1
+Mod-01 Lec-16 Basics of Mixed Flow Reactors,nKaDiHMlNWA,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:04:18Z,112,4,13688,10
+Mod-01 Lec-25  Contd. And later Reactor Design of PFR,pqvUNm9YVTs,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:00:34Z,53,0,7887,3
+Mod-01 Lec-57 Multi-parameter model (MFR with dead space and bypass),AdaqMpbFDYQ,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:11:36Z,23,0,3237,1
+Mod-01 Lec-55 Dispersion Model,HGuZFM1e5y8,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:13:21Z,87,3,11754,3
+Mod-01 Lec-60 Direct use of RTD to predict conversion Part III,I45Usnjri3Y,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:05:37Z,24,1,3344,2
+Mod-01 Lec-54 Diagnosing the ills of equipments & Various RTD Models,KhIzG0v88mI,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:15:04Z,32,0,4994,1
+Mod-01 Lec-59 Direct use of RTD to predict conversion Part II,_q0ectwcPvE,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:07:28Z,13,0,2911,1
+Mod-01 Lec-58 Direct use of RTD to predict conversion Part I,wYSilaCMgcc,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:08:50Z,30,2,4397,2
+Mod-01 Lec-51 Non-Ideal Flow & Residence Time Distributions (RTD) basics Part II,4di4AwgeWoQ,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:21:46Z,59,2,9084,1
+Mod-01 Lec-52 RTD for various reactors contd. Part I,Ao4801Hw-ec,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:19:30Z,72,1,9996,2
+Mod-01 Lec-48 Non-isothermal Mixed Flow Reactors Contd. (Multiple steady states) Part I,DqicjXX-H1k,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:26:12Z,24,0,3026,1
+Mod-01 Lec-50 Non-Ideal Flow & Residence Time Distributions (RTD) basics Part I,cMCL0oR74dU,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:23:03Z,188,3,20531,10
+Mod-01 Lec-53 RTD for various reactors contd. Part II,pFqviplP68g,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:16:27Z,51,1,8246,5
+Mod-01 Lec-49 Non-isothermal Mixed Flow Reactors Contd. (Multiple steady states) Part II,zoHJ-58bnZM,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:24:33Z,23,0,3578,1
+Mod-01 Lec-44 Non-isothermal Plug Flow Reactors Part I,7zTiRypqiUw,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:32:06Z,30,1,4646,3
+Mod-01 Lec-47 Non-isothermal Mixed Flow Reactors,9uhM_OWEzmc,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:27:56Z,17,0,3165,2
+Mod-01 Lec-45 Non-isothermal Plug Flow Reactors Part II,Njov6okeHow,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:30:37Z,14,0,3050,1
+Mod-01 Lec-43 Non-Isothermal Batch Reactors,ag7KtCHEtMg,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:33:21Z,27,0,4847,0
+Mod-01 Lec-46 Adiabatic Plug Flow Reactors,lZBBnnjYrM8,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:29:21Z,22,0,3571,1
+Mod-01 Lec-42 Non-Isothermal Reactors (Graphical Design) Contd.,smVkvSR4CjE,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:34:53Z,32,0,4685,1
+Mod-01 Lec-41 Non-Isothermal Reactors contd. & Adiabatic Reactors,oCXIkL5LAR4,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:36:10Z,69,2,8153,4
+Mod-01 Lec-40 Non-Isothermal Reactors (Graphical Design),rMY81nqtLFE,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:37:53Z,65,2,8851,3
+Mod-01 Lec-39 Non-Isothermal Reactors Part II,BmycFs_SCwU,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:39:48Z,34,1,6963,3
+Mod-01 Lec-38 Non-Isothermal Reactors Part I,LxgdV150iqQ,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:41:05Z,30,0,7644,3
+Mod-01 Lec-37 Multiple Reactions Part VI,RcIqifaXJbQ,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:42:27Z,18,1,4706,1
+Mod-01 Lec-36 Multiple Reactions Part V,lLWGz4uao3c,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:43:49Z,35,1,6579,3
+Mod-01 Lec-21 Kinetics of Heterogeneous reactions Part III,LhafEJkSKig,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:53:10Z,49,1,7316,2
+Mod-01 Lec-34 Multiple Reactions Part III,iuncSFrt3KY,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:48:04Z,46,0,6492,6
+Mod-01 Lec-35 Multiple Reactions Part IV,m7S8UX-aABE,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:46:55Z,28,2,5938,0
+Mod-01 Lec-22 Kinetics of Homogeneous reactions,rTlJNzdgHyE,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:51:29Z,55,1,9674,4
+Mod-01 Lec-23 Reaction rate for Homogeneous reactions,t3lj0G9JuTU,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:50:26Z,39,3,6378,2
+Mod-01 Lec-33 Multiple Reactions Part II,xo4gv-I0Ruw,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:49:15Z,43,1,7649,3
+Mod-01 Lec-20 Kinetics of Heterogeneous reactions Part II,zWk5d2Co0Nk,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:54:52Z,65,0,9688,4
+Mod-01 Lec-19 Kinetics of Heterogeneous reactions Part I,64VyJrX6bas,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:56:42Z,82,1,12934,2
+Mod-01 Lec-15 Design of Plug Flow Reactors Part II,7aIe4NvLcpI,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:00:57Z,59,0,9411,2
+Mod-01 Lec-13 Basics of Plug Flow Reactor Part II,8EL5n-nAAeY,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:03:07Z,105,1,12659,8
+Mod-01 Lec-17 Design of Mixed Flow Reactors,SKu88DoC7DU,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:59:23Z,76,1,9992,6
+Mod-01 Lec-14 Design of Plug Flow Reactors Part I,yeJ5TLFUGNo,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:01:58Z,93,4,15391,9
+Mod-01 Lec-18 Basics of Kinetics,zVEKh_mCGqw,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T04:57:54Z,106,3,13818,7
+Mod-01 Lec-9 Basics of Kinetics and Contacting,GdxchAX95I8,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:06:56Z,161,6,24092,8
+Mod-01 Lec-10 Design of Batch reactors Part I,OeLfn6SSgD8,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:05:49Z,377,22,48569,35
+Mod-01 Lec-8 Homogeneous & Heterogeneous Reactions Part II,UisdYcbJSRk,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:08:33Z,145,4,21095,7
+Mod-01 Lec-11 Design of Batch reactors Part II,gjD7YGMtAnQ,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:05:16Z,117,8,18588,3
+Mod-01 Lec-12 Basics of Plug Flow Reactor Part I,mfPEPyWFyzs,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:03:57Z,272,6,27462,20
+Mod-01 Lec-2 Motivation & Introduction Part II,A9flYuhhflA,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:18:01Z,188,6,21616,12
+Mod-01 Lec-1 Motivation & Introduction Part I,ANjzlZ_Zsak,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:19:14Z,444,10,88800,45
+Mod-01 Lec-4 What is Chemical Engg. Part II,EOS3NDwl4cY,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:14:43Z,103,1,13671,13
+Mod-01 Lec-5 What is Chemical Reaction Engg. Part I,IsjNRm96Z2M,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:13:24Z,245,5,28714,20
+Mod-01 Lec-6 What is Chemical Reaction Engg. Part II,MutemBvvXlY,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:11:52Z,170,8,20321,9
+Mod-01 Lec-7 Homogeneous & Heterogeneous Reactions Part I,v9IGcGnkkT4,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:09:53Z,301,9,40038,6
+Mod-01 Lec-3 What is Chemical Engg. Part I,wOPOPN1s4Gk,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:16:32Z,186,10,22714,5
+Mod-01 Lec-56 Dispersion with reaction Model and Tanks in Series Model,3FEAGaGMTy4,"Chemical Reaction Engineering 1 (Homogeneous Reactors) by Prof K. Krishnaiah,Department of Chemical Engineering,IIT Madras.For more details on NPTEL visit http://nptel.ac.in",2016-05-13T05:21:05Z,41,2,7228,7
+Universal Active Filter - Effect of Active Device GB,0CGFHMuWVaU,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:45:32Z,18,1,3179,0
+Feedback in Systems,WNVyvIwKuiM,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:43:50Z,14,0,2106,0
+State-Space Filters (Tuning of Filters),_0sEfUyQpo8,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:44:39Z,3,0,551,0
+Synthesis of Amplifiers using Nullators and Norators,UNIDbTZhOwk,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:47:13Z,6,1,1647,0
+State Space Filters,x2irry9R2YY,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:46:23Z,6,0,838,0
+Active Filters -,80WTmTblr6Y,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:48:21Z,21,0,4972,1
+Active Filters: Q-enhancement,Fjgb-GobkHE,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:47:56Z,4,0,916,0
+"Analog Signal Processing using One Port Networks, Passive Two Ports and Ideal amplifiers",rDoOiUy8Tfo,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:48:41Z,2,2,1555,0
+Active Filters -,fhCTxP1ZLHI,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:49:51Z,22,0,4195,1
+Passive Filters -,u59IUA6uvjk,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:50:20Z,75,3,10953,2
+Filters - Approximations to ideal filter functions,8tb9lJuPh0k,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:51:29Z,44,2,6040,4
+Analog Signal Processing using One Port Networks,FW7_gDRZ16Q,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:50:46Z,21,0,3477,1
+Non-linear Analog Signal Processing,EOMgrFBBRxk,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:53:04Z,8,1,1205,0
+Passive Filters -,ZzMJtQ_7MiA,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:51:56Z,21,0,5804,1
+Role of Analog Signal Processing in Electronic Products -,nJifzB1h9Qo,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:52:15Z,8,0,2347,0
+Role of Analog Signal Processing in Electronic Products -,P3CTCmDLPss,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:54:40Z,31,2,5685,1
+DC Voltage Regulators,tdtAfIAUTEI,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:53:55Z,13,0,2086,0
+"Introduction to Sensors, Signals and Systems",KeO3fhLftfQ,"Analog Circuits and Systems 1 by Prof. K. Radhakrishna Rao, Prof (Retd), IIT Madras.Texas Instruments, India.For more details on NPTEL visit http://nptel.ac.in",2016-05-20T04:55:54Z,83,1,25842,4
